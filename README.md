@@ -22,6 +22,7 @@ The repo contains:
 ## Contents
 - [Overview](#overview)
 - [Highlights](#highlights)
+- [Data](#data)
 - [Install](#install)
 - [Run Code](#run-code)
 - [Evaluation](#evaluation)
@@ -55,6 +56,14 @@ Response lengths, accuracy on well-defined questions, and abstain rate of reason
 * In contrast, given MiP questions, **non-reasoning models generate consistently shorter responses and quickly identify MiP**, demonstrating greater robustness to the absence of critical information.
 * Reasoning models respond differently to well-defined vs. MiP questions: they mostly follow stable chain-of-thoughts for the former, but are often **trapped in a self-doubt loop, repeatedly revisiting the question, and guessing the user intentions** under MiP, resulting in an explosion of tokens.
 * Reasoning models often can **notice the existence of MiP or identify it at an early stage**, but they **hesitate to commit to this judgment** and keep outputting ineffective thinking. 
+
+## Data
+
+To systematically investigate this MiP-Overthinking issue, we construct a suite of MiP questions in a controllable manner. Our MiP questions are sourced from 3 math datasets across different difficulties. In addition, we also construct a synthetic dataset consisting of formulas with unassigned variables. 
+
+<p align="center" width="70%">
+<a ><img src="data.png" alt="overview" style="width: 70%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
 
 ## Install
 
