@@ -2,6 +2,10 @@
 
 [Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?](https://github.com/MingLiiii/MiP-Overthinking)
 
+<p align="center" width="40%">
+<a ><img src="images/alpaca.png" alt="overview" style="width: 40%; min-width: 300px; display: block; margin: auto;"></a>
+</p>
+
 This is the repo for the **MiP-Overthinking** project, which introduces a special case for overthinking issues of reasoning models. 
 
 The repo contains:
