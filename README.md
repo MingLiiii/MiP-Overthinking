@@ -61,8 +61,8 @@ Response lengths, accuracy on well-defined questions, and abstain rate of reason
 
 To systematically investigate this MiP-Overthinking issue, we construct a suite of MiP questions in a controllable manner. Our MiP questions are sourced from 3 math datasets across different difficulties. In addition, we also construct a synthetic dataset consisting of formulas with unassigned variables. 
 
-<p align="center" width="70%">
-<a ><img src="images/data.png" alt="overview" style="width: 70%; min-width: 300px; display: block; margin: auto;"></a>
+<p align="center" width="90%">
+<a ><img src="images/data.png" alt="overview" style="width: 90%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 ## Install
