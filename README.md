@@ -44,6 +44,11 @@ When queried by questions with missing premises, the response length of reasonin
 <a ><img src="model_length_comparison.pdf" alt="overview" style="width: 90%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
+Response lengths, accuracy on well-defined questions, and abstain rate of reasoning/non-reasoning models on MiP questions from our MiP-GSM8K dataset. 
+(1) Existing reasoning models generate significantly longer responses for MiP questions than well-defined questions, while non-reasoning models generate responses of similar lengths for both types of questions, indicating **MiP-Overthinking** for reasoning models. 
+(2) For both questions, reasoning models generate longer responses than non-reasoning models, indicating **General Overthinking**. 
+(3) Although the longer responses by reasoning models slightly improve the accuracy for well-defined questions, it does not enhance the abstain rate for MiP questions, indicating a **contradiction on the test-time scaling law**. 
+
 ## Highlights
 
 * Missing premise in questions induces reasoning models to generate significantly longer (2x to 4x more tokens) responses than general overthinking on well-defined questions. The increased tokens fail to help identify MiP in the ill-posed questions, surprisingly **contradicting the widely-discussed test-time scaling law.**
