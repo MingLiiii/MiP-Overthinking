@@ -1,0 +1,1502 @@
+[
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many bottle caps Danny had. \n\nHere's why:\n\n* **Candy bar cost:** We know the candy bar cost $1 ($4 starting money - $3 left = $1 spent).\n* **Bottle caps are unrelated:** The problem doesn't tell us anything about the price of bottle caps or if Danny bought any. \n\n\nLet me know if you have another puzzle! \n\n",
+        "answer": 91.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It tells us about Paco's cookies, but then asks about pencils.  \n\nThere's not enough information to know how many pencils Paco has. \ud83c\udf6a\u270f\ufe0f  We only know about his cookies. \n\n\nLet me know if you'd like to solve a problem about Paco's cookies! \ud83d\ude0a \n\n",
+        "answer": 84.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! Here's why:\n\n* **The bus problem:** We're given information about children getting on and off a bus, but this doesn't tell us anything about Danny or wrappers and bottle caps.\n\n* **Danny's findings:** The question asks about Danny finding wrappers and bottle caps, but we have no information about that.\n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 60.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Start with the initial amount:** Olivia had $3.\n* **Add the ATM money:** $3 + $49 = $52\n* **Subtract the supermarket spending:** $52 - $49 = $3\n\n**Answer:** Olivia spent $3 at the supermarket. \n\n\nThe question asks how much money they *made*, but the problem describes Olivia spending money. \n\n",
+        "answer": 3168.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question is a bit silly!  \n\nThe information about the cake ingredients and the flour Mary already added doesn't help us figure out how many buses are needed for a trip.  \n\nTo figure out how many buses are needed, we'd need to know:\n\n* **How many people are going on the trip?**\n* **How many people can fit on each bus?** \n\n\nLet me know if you want to try a different word problem! \n\n",
+        "answer": 37.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many bird families were near the mountain. \n\nHere's why:\n\n* **The waiter and customers are unrelated to birds:** The problem focuses on the waiter and their customers, not birds.\n* **No information about birds:** There's no mention of how many bird families were there in the first place. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 27.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a trick! \n\nThe information about the birds is there to distract you.  There's no way to know how many cookies Helen baked based on the number of birds. \n\nYou'd need more information about Helen and her baking habits to figure that out! \ud83c\udf6a \n\n",
+        "answer": 450.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky!  \n\nThe information about the number of girls and boys in the school doesn't help us figure out how many peaches are in a basket.  \n\nTo know how many peaches are in a basket, we need information about the peaches! \ud83c\udf51 \n\n\nLet me know if you have another question. \ud83d\ude0a \n\n",
+        "answer": 30.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about swimming, height, and water depth is meant to distract you.  There's no information about Ron getting crayons for his birthday. \n\nWe can't figure out how many crayons Ron got. \n\n",
+        "answer": 728.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about birds and storks, but then asks about soda.  \n\nThere's not enough information to figure out how many bottles of soda they have. \n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 39.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Find how many pounds of strawberries Marco's dad had:** Since Marco had 12 pounds left after his dad lost some, and they started with 36 pounds, his dad must have had 36 - 12 = 24 pounds.\n* **Find how many pounds of strawberries his dad lost:** He lost 8 pounds.\n* **Find how many pounds of strawberries his dad had at first:** He had 24 pounds + 8 pounds = 32 pounds at first.\n\n\nLet me know if you have any other word problems you'd like help with! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem gives us information about students in a school, but it asks about balloons Jake brought to the park.  There's no connection between the two pieces of information. \n\nTo figure out how many balloons Jake brought, we need more information about Jake and the balloons! \ud83c\udf88 \n\n\nLet me know if you have another question. \ud83d\ude0a \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many push-ups Zachary and David did. \n\nHere's why:\n\n* **It focuses on school enrollment:** The problem tells us about changes in the number of girls and boys at a school.\n* **No information about Zachary and David:**  We don't know who Zachary and David are or if they are even students at this school. We also don't know anything about their push-up abilities. \n\n\nLet me know if you have a different question! \n\n",
+        "answer": 53.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Danny's collections, but then asks a question about kids at camp.  \n\nThere's not enough information to answer the question about kids at camp. \n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 150780.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many visitors went to Buckingham Palace. \n\nHere's why:\n\n* **Cake sales and palace visitors are unrelated:** The number of cakes Baker sells doesn't tell us anything about how many people visited Buckingham Palace.\n* **Missing information:** We need information about the number of visitors on both days to compare them. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 22.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n**1. Find the number of groups:**\n\n* Divide the total number of bananas by the size of each group: 180 bananas / 18 bananas/group = 10 groups\n\n**2.  This information is not relevant to the cost of DVDs.** \n\nThe problem asks about the cost of DVD packs, and the information about bananas is a distraction.  \n\n**To find the cost of 33 DVD packs, you need the price per pack.** \n\nLet's say each pack of DVDs costs $10. Then:\n\n* Cost of 33 packs = 33 packs * $10/pack = $330 \n\n\nLet me know if you have the price per DVD pack! \n\n",
+        "answer": 2673.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It mixes two unrelated things:\n\n* **Bird problem:** This tells us about birds on a fence.\n* **Movie/Book question:** This asks about a \"crazy silly school\" series.\n\nWe don't have enough information to answer the question about movies and books.  \n\n**To solve the bird problem:**\n\n* We know there are 5 birds now.\n* 4 birds joined the original group.\n* So, there were 5 - 4 = 1 bird on the fence originally. \n\n\nLet me know if you have any other questions! \n\n",
+        "answer": 2.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about action figures, but then asks about baskets of peaches.  \n\nThere's not enough information to figure out how many baskets of peaches there are. The two things aren't related. \n\n\nLet me know if you'd like to solve a different problem! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! Here's what we need to focus on:\n\n* **We don't know how many bags Sofia found.** The problem tells us about food suggestions, but nothing about bags. \n\nLet me know if you have a different problem you'd like help with! \n\n",
+        "answer": 5.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how much money was spent on chocolate or candy bars. \n\nHere's why:\n\n* **We only know about soda:** The problem only tells us about the number of different types of soda the store has. It doesn't mention anything about chocolate or candy bars.\n* **No prices:** We don't know how much each bottle of soda costs, let alone the prices of chocolate or candy bars. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some tricky information! \n\n* **Candy Bars:** Dan bought 2 candy bars for a total of $4. This means each candy bar cost $2 ($4 / 2 = $2).\n\n* **Pizzas:** The problem doesn't give us any information about pizzas.  \n\n**We can't figure out how many pizzas were ordered because the problem doesn't tell us anything about pizzas.** \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 14.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us information about a machine or how long it worked. It's about flowers! \n\nHere's how to solve the flower part of the problem:\n\n* **Roses:** Jessica added 17 - 15 = 2 more roses.\n* **Orchids:** Jessica added 96 - 62 = 34 more orchids. \n\n\nLet me know if you have another question! \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a bit of a trick question! \n\nSpending money doesn't change someone's weight.  \n\nHere's how to solve the money part:\n\n* **Start:** Olivia had $78.\n* **Spent:** She spent $15.\n* **Left:** $78 - $15 = $63\n\nOlivia now has $63 in her wallet. \n\n",
+        "answer": 4.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem is a bit tricky! \n\nThe information about emails doesn't tell us anything about how many friends Jack gave crackers to.  \n\nWe only know:\n\n* **Emails:** Jack got 6 + 3 = 9 emails in the morning and afternoon.\n* **Total Emails:** He got 10 emails total.\n\nTo figure out how many friends he gave crackers to, we need more information. \n\n\nLet me know if you have any other clues! \n\n",
+        "answer": 6.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many crackers and cakes anyone ate. Here's why:\n\n* **Money and Snacks:** The problem focuses on Dan's money and a candy bar purchase. It doesn't mention anything about crackers or cakes.\n* **Missing Information:** To know how many snacks were eaten, we'd need to know:\n    * If crackers and cakes were even involved.\n    * How much each snack costs.\n    * Who ate the snacks (Dan, his friend, or both). \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a bit of a trick question! \n\nThe information about the visitors to Buckingham Palace doesn't tell us anything about how many pencils Rachel has.  \n\nWe need more information to figure out how many pencils Rachel has. \n\n",
+        "answer": 720.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Gwen's birthday money, but then asks about birds.  \n\nThere's not enough information to figure out how many bird families flew away or stayed. \n\nLet me know if you'd like to try a different word problem! \ud83d\udc26 \n\n",
+        "answer": 127.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about bananas, oranges, and groups is meant to distract you. There's no information given about Philip finding bottle caps at the park. \n\nSo the answer is: We don't know how many bottle caps Philip found. \n\n\nLet me know if you'd like to try another riddle! \n\n",
+        "answer": 7.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how much money was spent on candy and chocolate. \n\nHere's why:\n\n* **We only know about books and movies:** The problem tells us about the number of books and movies in a series, and how many of each someone has read/watched.\n* **No mention of candy or chocolate:** There's no information about the price of candy bars, chocolate, or how many were bought. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 13.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about baking a cake but then asks about t-shirts.  \n\nHere's what we can figure out about the cake:\n\n* **Flour needed:** 12 cups\n* **Flour already added:** 12 cups - 2 cups = 10 cups\n\nLet me know if you'd like to solve a problem about the cake ingredients, or if you have a different question about t-shirts! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Danny's bottle caps and wrappers, but then asks about Jackie's apples.  \n\nThere's no information about how many apples Jackie has.  We can't answer this question. \n\n",
+        "answer": 6.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It tells us about Luke and his trivia game, but then asks about Paco and his cookies.  \n\nThere's no information about Paco or his cookies in the problem.  We can't figure out how many cookies Paco has left. \n\n\nLet me know if you'd like to solve a different problem! \ud83d\ude0a \n\n",
+        "answer": 7.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about birds and storks, but then asks about children on a bus.  \n\nThere's not enough information to answer the question about children on a bus. \n\nLet me know if you'd like to solve a different problem about the birds and storks! \ud83d\udc26\ud83e\udda9 \n\n",
+        "answer": 23.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about push-ups and crunches, but then asks about cookies.  \n\nThere's not enough information to figure out how many more cookies David bought than he ate. \n\nLet me know if you'd like to try a different problem! \ud83d\ude0a \n\n",
+        "answer": 34.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many action figures Jerry started with. Here's why:\n\n* **We know:**\n    * Jerry started with 7 action figures.\n    * He added some more.\n    * He removed 10.\n    * He now has 8.\n\n* **The problem:** We don't know how many he added.  \n\n**To solve this, we'd need to know how many action figures Jerry has after adding some but before removing any.** \n\n\nLet me know if you want to try a different word problem! \n\n",
+        "answer": 9.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has a little trick in it! \n\nThe question asks how many cards Nell has *now*, not how many she gave to Jeff. \n\n* **Start with the total:** Nell began with 309 + 356 = 665 cards.\n* **She has 415 left:** This means she has 415 cards now.\n\n\nLet me know if you'd like to try another word problem! \n\n",
+        "answer": 30.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about snakes and alligators, but then asks about planks for a house wall.  \n\nThere's not enough information to figure out how many planks John needs. We need to know things like:\n\n* **How big is the house wall?** \n* **How long are the planks?**\n* **How much space between the planks does John want?** \n\n\nLet me know if you want to try a different problem! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question is a bit tricky! It tells us about books, but then asks about tomatoes and potatoes.  \n\nThere's not enough information to figure out how many tomatoes and potatoes someone has. \n\nLet me know if you have another question! \n\n",
+        "answer": 136.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It seems like there's some information missing. \n\nHere's why:\n\n* **Beads and Necklaces:** The information about beads and necklaces tells us how many beads Emily uses per necklace (20 beads / 5 necklaces = 4 beads per necklace).\n* **Action Figures:** The question asks about action figures, which aren't mentioned anywhere else in the problem.\n\n**To solve this, we need to know how many action figures Emily has.** \n\n\nLet me know if you have the right information, and I can help you solve it! \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It talks about candy and bags, but then asks about oranges.  \n\nHere's how to solve the candy part:\n\n* **Find the number of bags:** 22 pieces of candy / 11 pieces per bag = 2 bags\n\nLet me know if you'd like to figure out something about the oranges, but we need more information about them! \ud83c\udf4a \n\n\n\n",
+        "answer": 24.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some tricky wording! It seems like there's a mistake. Here's why:\n\n* **Customers can't increase after some leave.** If customers leave, the waiter would have *fewer* customers.\n\nLet me know if you'd like to try a different math problem! \n\n",
+        "answer": 10.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a bit of a trick question! \n\nThe information about the tomatoes is meant to confuse you.  We don't know anything about Jill or how many peaches she has. \n\nTo figure out how many peaches Jill has, you'd need more information about Jill. \n\n",
+        "answer": 5.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky!  \n\nThe information about the peaches doesn't tell us anything about students or bacon.  \n\nTo figure out how many students suggested bacon, you'd need a different piece of information. \n\n",
+        "answer": 348.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many boys Jessica gave marbles to. \n\nThe problem tells us about roses and orchids, but nothing about marbles or boys. \n\n\nLet me know if you have another problem you'd like to solve! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! \n\nHere's how to figure out how many necklaces Emily can make:\n\n* **Divide the total beads by the beads per necklace:** 6 beads / 3 beads/necklace = 2 necklaces\n\nEmily can make **2** necklaces. \n\n\nLet me know if you have any other questions! \n\n",
+        "answer": 16.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about aquariums and saltwater animals, but then asks about green peaches in baskets.  \n\nThere's no connection between the aquariums and the peaches.  \n\nTo figure out how many green peaches are in each basket, we need more information about the peaches! \ud83c\udf51 \n\n\nLet me know if you have another problem to solve! \ud83d\ude0a \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about baking a cake but then asks about buses.  \n\nHere's why we can't answer the question:\n\n* **Missing Information:** We don't know how much flour Mary has already added.\n* **Irrelevant Information:** The amount of flour and sugar needed for the cake doesn't tell us anything about buses or a trip. \n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 29.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! Here's why:\n\n* **We need to know how much flour each cake and pastry uses.**  The problem doesn't tell us how much flour Baker used to make the initial cakes and pastries.\n\n**To solve this, we'd need more information:**\n\n* **Flour per cake:** How many cups of flour does Baker use for each cake?\n* **Flour per pastry:** How many cups of flour does Baker use for each pastry? \n\nLet me know if you have those details, and I can help you figure out how much more flour Baker needs! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that isn't needed to solve it! Here's why:\n\n* **Shirt Production:** The information about the machine making shirts doesn't relate to mice or grasshoppers jumping.\n\nTo solve a problem about how far a mouse jumped compared to a grasshopper, you'd need information like:\n\n* **Mouse jump distance:** How far did the mouse jump?\n* **Grasshopper jump distance:** How far did the grasshopper jump? \n\n\nLet me know if you have those details, and I can help you figure out the difference! \n\n",
+        "answer": 28.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many crackers Matthew started with or how many movies need to be watched. \n\nIt only tells us about Matthew sharing crackers with his friends. \n\nLet me know if you have another question! \n\n",
+        "answer": 4.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit of a trick! \n\nThe information about the students' food suggestions and the number of students who suggested each option doesn't give us any clues about the depth of the water.  \n\nThere's no way to figure out how deep the water is from this information. \n\n",
+        "answer": 81.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many kids someone played with. \n\nHere's why:\n\n* **We only know about cookies:** The problem tells us about the number of cookies and bags, but nothing about how many cookies were eaten or shared with kids.\n* **No information about kids:** There's no mention of how many kids were involved on Monday or Tuesday. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how long soda bottles would last.  \n\nHere's why:\n\n* **We need to know how many soda bottles Rachel has.** The problem only tells us about her homework.\n* **We need to know how much soda Rachel drinks each day.**  \n\nLet me know if you have more information about the soda bottles! \n\n",
+        "answer": 64.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question is a bit tricky! The story is about balloons, but then it asks about books. \n\nTo answer the question directly: I haven't read any books. As a language model, I don't read in the same way humans do. \n\nLet me know if you'd like to know how many balloons Allan has in total! \ud83d\ude0a \n\n\n\n",
+        "answer": 15.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us information about bacon or tomatoes! It only tells us how many kids Julia played tag with each day. \n\nTo solve a problem about bacon and tomatoes, we'd need information about how many people suggested each food. \n\n",
+        "answer": 314.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "It seems like you're asking for the total revenue from each type of clothing, not the size of the groups. Here's how to calculate that:\n\n**Jersey Revenue:**\n\n* Revenue per jersey: $5\n* Number of jerseys sold: 64\n* Total jersey revenue: $5 * 64 = $320\n\n**T-shirt Revenue:**\n\n* Revenue per t-shirt: $215\n* Number of t-shirts sold: 20\n* Total t-shirt revenue: $215 * 20 = $4300\n\n\nLet me know if you had a different question in mind! \n\n",
+        "answer": 2.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Find out how many bags Tiffany found:** Tiffany had 6 bags total and started with 4, so she found 6 - 4 = 2 more bags.\n\n* **The question about chairs and tables is unrelated:** The problem gives us information about cans and bags, but then asks about chairs and tables.  There's not enough information to answer that part of the question. \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 117.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Step 1: Find the total number of girls after more joined.** \n   632 girls + 465 girls = 1097 girls\n\n* **Step 2: Find the total number of children.**\n   1097 girls + 410 boys = 1507 children\n\n\n**Answer:** There are now 1507 children in the school. \n\n",
+        "answer": 64.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Beads per necklace:** 5\n* **Number of necklaces:** 4\n* **Total beads:** 5 beads/necklace * 4 necklaces = 20 beads\n\n\nEmily used **20** beads in total. \n\n",
+        "answer": 7.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Randy's blocks but then asks about oranges.  \n\nWe don't have enough information to figure out how many sacks of oranges are harvested. \n\nLet me know if you'd like to solve a different problem about Randy's blocks! \n\n",
+        "answer": 69.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about the birds and storks is meant to distract you.  The question asks about a mouse and how far it jumped, and there's no information about a mouse. \n\nSo, we can't answer how far the mouse jumped. \n\n",
+        "answer": 39.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many hours Paco spends learning English and Chinese. \n\nHere's why:\n\n* **Cookie Math:** The information about the cookies is confusing because Paco can't eat more cookies than he has! It seems like there might be a mistake in the numbers.\n* **Missing Information:**  We need to know how many hours Paco spends on each language to calculate the total time. \n\n\nLet me know if you want to try a different problem! \n\n",
+        "answer": 63.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question is a bit tricky! It asks about how many marbles **Doug** lost, but the story is about **Josh**. \n\nWe don't have any information about Doug and how many marbles he might have lost. \n\n\nLet me know if you'd like to know how many marbles Josh has now! \n\n",
+        "answer": 17.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many bags or cans Sofia has. \n\nHere's why:\n\n* **We only know about food suggestions:** The problem tells us how many students suggested certain foods, but it doesn't say anything about Sofia's existing food supply.\n* **No connection to bags/cans:** There's no information linking the food suggestions to the number of bags or cans Sofia might have.\n\n\nLet me know if you have a different problem in mind! \n\n",
+        "answer": 10.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Start with the total:** Paco begins with 40 cookies.\n* **Subtract the cookies he ate:** 40 - 5 = 35 cookies\n* **Subtract the cookies he gave away:** 35 - 13 = 22 cookies\n\n**Answer:** Paco will have 22 cookies left. \n\n\n\n",
+        "answer": 7.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It asks how many inches the mouse jumped, not how many games were played. Here's how to solve it:\n\n* **Frog's jump:** The frog jumped 19 inches (grasshopper) + 10 inches = 29 inches.\n* **Mouse's jump:** The mouse jumped 29 inches (frog) + 20 inches = 49 inches.\n\n\nLet me know if you'd like to try another problem! \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! The information about Frank reading a book and the number of pages doesn't help us figure out how many children got on or off a bus. \n\nWe need more information to solve that problem.  \n\nCan you give me more details about the bus? \ud83d\ude0a \n\n",
+        "answer": 24.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question is a bit tricky! It tells us about balloons but then asks about bags of cookies.  \n\nThere's not enough information to know how many bags of cookies anyone has. \ud83c\udf6a \n\n\nLet me know if you'd like to solve a different problem! \ud83d\ude0a \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky!  \n\nKnowing how many marbles Josh lost doesn't tell us anything about how much wax he has.  \n\nWe need more information to figure out how many grams of wax Josh has. \n\n",
+        "answer": 28.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Jake brought **3** balloons to the park. \n\nThe problem tells us he bought more balloons *at* the park, but it asks how many he *brought*. \n\n",
+        "answer": 9.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how far they are from the end of the cave! \n\nHere's why:\n\n* **Peaches and distance:** The number of peaches tells us nothing about how far someone is traveling.\n* **Missing information:** We need to know something about their starting point and how far they've already traveled to figure out the distance to the end of the cave. \n\n\nLet me know if you have more details about the situation! \n\n",
+        "answer": 369.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is designed to be a bit tricky! \n\nHere's why we can't figure out how many apples Jake has:\n\n* **The information about camp is irrelevant:** The number of kids going to camp doesn't tell us anything about Jake or how many apples he might have.\n* **We need more information about Jake:** To know how many apples Jake has, we'd need to be told that directly. \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 11.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit of a trick! \n\nThe information about pots, flowers, and sticks doesn't tell us anything about shirts.  \n\nTo figure out how many shirts a machine made, we'd need information about the machine and how many shirts it produces. \n\n",
+        "answer": 156.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! \n\nThe information about the apples and pies doesn't help us figure out how many balloons Allan and Jake have.  We need more information about Allan and Jake to solve that. \n\n\nLet me know if you have another question! \n\n",
+        "answer": 8.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many kids someone played with on Monday and Tuesday. Here's why:\n\n* **Cookies and Candies:** The information about cookies and candies doesn't tell us anything about how many kids were involved.\n* **Missing Information:** We need to know how many cookies each kid got on each day to solve this problem. \n\n\nLet me know if you have any other word problems! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n**1. Find the total number of oranges harvested per day:**\n\n* 38 sacks/day * 42 oranges/sack = 1596 oranges/day\n\n**2. Find the total number of oranges needed:**\n\n* 80 sacks * 42 oranges/sack = 3360 oranges\n\n**3. Calculate the number of days to harvest 3360 oranges:**\n\n* 3360 oranges / 1596 oranges/day = 2.1 days\n\n\n**Answer:** It will take approximately **2.1 days** to harvest 80 sacks of oranges. \n\n",
+        "answer": 5.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is about Jack's emails, not about Steven's fruit.  \n\nHere's how to solve the email problem:\n\n* **Total emails:** 10 + 5 + 4 = 19 emails \n\nLet me know if you have a question about Steven's fruit! \ud83c\udf4e\ud83c\udf51 \n\n\n\n",
+        "answer": 7.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about tomatoes but then asks about kids staying home.  \n\nThere's not enough information to figure out how many kids stayed home. \n\nLet me know if you'd like to solve a different problem about the tomatoes! \ud83c\udf45 \n\n",
+        "answer": 268627.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many students suggested bacon. Here's why:\n\n* **Flowers and Bacon:** The information about flowers and pots doesn't relate to students or their food preferences. \n\nTo solve a problem about students suggesting bacon, we'd need information like:\n\n* A survey about food preferences.\n* A list of student suggestions. \n\n\nLet me know if you have a different problem you'd like to try! \n\n",
+        "answer": 125.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many emails Jack received. \n\nHere's why:\n\n* **We only know about food suggestions:** The information tells us about students suggesting mashed potatoes and bacon, but nothing about Jack or his emails.\n* **Missing connection:** There's no link established between the food suggestions and the number of emails Jack received. \n\n\nLet me know if you have another problem to solve! \n\n",
+        "answer": 13.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Ed and Doug's marbles, but then asks about bird families.  \n\nThere's not enough information to figure out how many bird families flew away. The marble problem and the bird problem are unrelated. \n\n\nLet me know if you'd like to solve the marble problem! We can figure out how many marbles Doug started with. \n\n",
+        "answer": 118.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many necklaces Emily can make. \n\nHere's why:\n\n* **We only know about Rachel's homework:** The problem tells us about Rachel's math and reading homework, but nothing about Emily or necklaces. \n\nLet me know if you have another problem you'd like help with! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many people each seat can hold! \n\nHere's what we know:\n\n* **Cookies:** Helen baked a lot of cookies!\n* **Thanksgiving:** They're getting ready for a Thanksgiving meal.\n\nWe need information about the **seating arrangement** to answer the question.  \n\nFor example, we'd need to know:\n\n* **How many seats are there?**\n* **Is there a table, or are they eating on the floor?**\n* **Are there any extra chairs?** \n\n\nLet me know if you have more details about the seating! \n\n",
+        "answer": 5.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Start with the total:** Tiffany had 8 bags of cans.\n* **Subtract the new bags:** She found 4 more bags, so she started with 8 - 4 = 4 bags.\n* **The answer:** Tiffany had 4 bags of cans to start. \n\n\nLet me know if you have any other word problems! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Sugar:** Mary needs 12 cups of sugar and has 10 cups. She needs 12 - 10 = 2 more cups of sugar.\n* **Flour:** The problem doesn't say how much flour Mary has already added, so we don't know how much more she needs. \n\n\nLet me know if you have any other questions!\n",
+        "answer": 7.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to know how many cards Jeff has.  \n\nWe only know about Kelly's Nintendo games.  We need more information about Jeff to figure out how many cards he has. \n\n",
+        "answer": 265.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem seems to have some mixed-up information! \n\n* It talks about t-shirts and packages, but then asks about eggs and marbles. \n\nTo solve the t-shirt part:\n\n* **T-shirts per package:** Mom buys 70 t-shirts / 14 packages = 5 t-shirts per package.\n\nLet me know if you'd like to figure out something else, like how many eggs Rebecca has if you give me that information! \n\n",
+        "answer": 7.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! \n\nHere's why:\n\n* **We're asked about cookies, but the recipe is for a cake.**  \n* **We don't know how many cookies the recipe makes.**\n\nTo figure out how many cookies Paco has left, we'd need to know:\n\n1. **How many cookies the cake recipe makes.**\n2. **How many cookies Paco started with.** \n\n\nLet me know if you want to try a different problem! \n\n",
+        "answer": 12.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is designed to trick you! \n\nThe information about the roses and orchids is irrelevant to the question.  \n\nWe don't have any information about how many pencils Jessica has. \n\n",
+        "answer": 154.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is designed to be tricky!  \n\nHere's why we can't solve it:\n\n* **Missing Information:** The problem doesn't tell us how many children got off the bus.  We need that information to figure out how many were on the bus after the stop.\n* **Irrelevant Information:** The number of children on the bus has nothing to do with how many emails Jack received. \n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question is a bit tricky! \n\nThe information about books and movies doesn't tell us anything about apps.  \n\nTo figure out how many apps were added, we'd need more information about the \"crazy silly school\" series and whether it includes apps. \n\n\nLet me know if you have more details! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! The information about Emily and the necklaces doesn't help us figure out how many peaches Jake has.  \n\nWe need more information to know how many peaches Jake has. \ud83c\udf51 \n\n\nLet me know if you have another question! \ud83d\ude0a \n\n",
+        "answer": 9.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us any information about apples or trees! It only talks about Fred and Jason's money.  \n\nThere's not enough information to figure out how many apples were on trees. \n\n",
+        "answer": 33.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question has a little trick in it! \n\n* **Junk mail is delivered by mail, not email.**  \n\nSo, Jack wouldn't receive any emails, whether in the morning or evening. \n\nLet me know if you'd like to know how much junk mail the mailman delivers in total! \n\n",
+        "answer": 11.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about crackers and cakes, but then asks about peaches.  \n\nThere's not enough information to figure out how many red and green peaches are in a basket.  We need more clues about the peaches! \n\n\nLet me know if you want to try a different problem. \ud83d\ude0a \n\n",
+        "answer": 22.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Find out how many roses Jessica added:** 19 roses (in the vase) - 3 roses (initially) = 16 roses\n* **Assume each friend gets 1 rose:** Jessica can invite 16 friends. \n\n\nLet me know if you have any other word problems! \n\n",
+        "answer": 95.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! Here's why:\n\n* **We don't need to know about the math and reading homework.** The question asks about children on a bus, not homework.\n\n* **We can't figure out how many children got off the bus.** We only know how many were on the bus at the beginning and end.\n\n**Here's what we can figure out:**\n\n* **We can find out how many children were on the bus after the new children got on:** 23 + 24 = 47 children\n\n* **We can find out how many children got off the bus:** 47 - 8 = 39 children \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! \n\nThe information about planting seeds and flower beds doesn't help us figure out how many goldfish disappeared.  \n\nTo solve a problem about missing goldfish, we'd need information about how many goldfish there were to start with. \n\n\nLet me know if you want to try a different problem! \n\n",
+        "answer": 14.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Find the total number of suggestions:** 257 + 120 + 97 = 474\n\nSofia will have **474** suggestions to consider. \n\n\nLet me know if you have any other questions! \n\n",
+        "answer": 22.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how much money the school made from selling t-shirts. Here's why:\n\n* **We only know about student numbers:** The problem tells us how many girls and boys were in the school initially and how many more joined. It doesn't say anything about t-shirt sales.\n* **We need information about t-shirt sales:** To calculate the money made, we would need to know:\n    * The price of each t-shirt\n    * How many t-shirts were sold \n\nLet me know if you have more information about the t-shirt sales! \n\n",
+        "answer": 8265.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve this problem:\n\n**1. Find the amount of wax already used:**\n\n* Total wax needed: 628 g\n* Wax needed: 159 g\n* Wax already used: 628 g - 159 g = 469 g\n\n**2.  This information doesn't help us find the daily earnings.**\n\nThe problem gives us information about wax, but it doesn't tell us anything about how much money they make at the carnival.  We need more information to calculate their daily earnings. \n\n\nLet me know if you have any other information about their carnival earnings! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve this:\n\n* **Find the number of days it took Frank to finish the book:** 576 pages / 8 pages/day = 72 days\n\n* **Since there's no mention of grouping the pages, we assume each \"group\" is a day's worth of reading.**\n\n\n**Answer:** Each group is 8 pages. \n\n",
+        "answer": 57.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many packs of cookies or cake someone bought. \n\nHere's why:\n\n* **Peaches and Treats:** The information about peaches doesn't tell us anything about cookies or cake. \n* **Missing Information:** We need to know how many green peaches there are to find the total number of peaches. We also need information about how many packs of cookies and cake were bought. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 6.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem gives us information about Dean and Ron's heights and the depth of the water, but it doesn't tell us anything about how many kids go to camp. \n\nThere's not enough information to answer how many kids go to camp during the break. \n\n\nLet me know if you'd like to solve for Dean's height or the depth of the water! \n\n",
+        "answer": 38608.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't have enough information to figure out how many cookies Paco has left. Here's why:\n\n* **Flowers and Cookies are Unrelated:** The information about pots and flowers doesn't tell us anything about Paco or cookies. \n\nTo solve a problem about cookies, we need information about Paco and how many cookies he started with, ate, or gave away. \n\n\nLet me know if you have a different problem about Paco and his cookies! \ud83c\udf6a \n\n",
+        "answer": 75.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is about planting seeds, not about Edward and his money.  \n\nHere's how to solve the seed problem:\n\n* **Seeds per bed:** 10\n* **Number of beds:** 45\n* **Total seeds:** 10 * 45 = 450 seeds\n\n\nPaige and her mom planted a total of 450 seeds. \n\n",
+        "answer": 2.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem has some tricky information! \n\n* **It tells us about strawberries, but then asks about salty cookies.**  These are two different things.\n\n* **We don't know anything about Paco.**  The problem only mentions Marco and his dad.\n\nBecause of these problems, we can't figure out how many salty cookies Paco had left. \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us any information about Josh or how many marbles he has. It only tells us about Julia and how many kids she played tag with. \n\nTo figure out how many marbles Josh has, we need more information about him! \n\n",
+        "answer": 18.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem seems to be mixing up information! \n\n* It talks about birthday invitations and packages.\n* Then it asks about cups of flour and sugar.\n\nTo solve this, we need to know how many cups of flour and sugar Carol needs in total.  \n\nCan you please provide more information about the baking recipe? \n\n\nLet me know, and I can help you figure out the difference! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n**1. Find the frog's jump:**\n\n* The frog jumped 37 inches farther than the grasshopper, who jumped 14 inches.\n* Frog's jump: 14 inches + 37 inches = 51 inches\n\n**2. Find the mouse's jump:**\n\n* The mouse jumped 16 inches less than the frog, who jumped 51 inches.\n* Mouse's jump: 51 inches - 16 inches = 35 inches\n\n\nLet me know if you'd like to try another word problem! \n\n",
+        "answer": 2.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out the total grams of wax Faye has. Here's why:\n\n* **We know the quantity of pencils and crayons:** Faye has 31 pencils and 27 crayons in each row.\n* **We know the number of rows:** There are 11 rows.\n\n* **We don't know the weight of the pencils or crayons:**  To calculate the total grams of wax, we'd need to know how much wax is in each crayon. \n\n\nLet me know if you have the weight of a single crayon, and I can help you calculate the total grams of wax! \n\n",
+        "answer": 331.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how long the machine was working. Here's why:\n\n* **We don't know how many beads are in each necklace.**  If each necklace uses 1 bead, she could make 32 necklaces with just 32 beads. If each necklace uses 10 beads, she would need 320 beads.\n* **We don't know how fast the machine works.**  Even if we knew how many beads were in each necklace, we'd need to know how many beads the machine makes per minute to calculate the time. \n\n\nLet me know if you have more information! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It tells us about Paco's cookies but then asks about books sold at a garage sale.  \n\nThere's no information about Paco selling books.  \n\nLet me know if you'd like to figure out how many cookies Paco has left! \ud83c\udf6a \n\n",
+        "answer": 140.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Paul and his books, but then asks about Adam and Jackie and their apples.  \n\nThere's not enough information to figure out how many more apples Adam has than Jackie. \n\nLet me know if you'd like to try a different problem! \ud83d\ude0a \n\n",
+        "answer": 8.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! The information about Danny and his bottle caps doesn't tell us anything about a baker or how many cakes they made. \n\nThere's not enough information to figure out how many cakes a baker made. \n\n\nLet me know if you'd like to try a different word problem! \ud83d\ude0a \n\n",
+        "answer": 217.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is designed to be a bit tricky! \n\nThe information about kids staying home, going to camp, and kids from outside the county is irrelevant to the question.  \n\nWe have absolutely no information about how many peaches Jake has. \n\n",
+        "answer": 17.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how far Faye is from the end of the cave! \n\nHere's why:\n\n* **We only know about the pencils:** The problem tells us about Faye organizing pencils, but nothing about the cave's size or Faye's location within it. \n\n\nLet me know if you have another problem to solve! \n\n",
+        "answer": 103.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some unrelated information! \n\n* **Part 1:**  We can figure out how many pieces of candy Frank has in total: 26 bags * 33 pieces/bag = 858 pieces of candy.\n\n* **Part 2:** The information about oranges and harvest days doesn't relate to the candy. We need more information to figure out how many sacks of oranges Frank will have. \n\n\nLet me know if you have another question! \n\n",
+        "answer": 365.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Find the number of diet soda bottles:** 17 total bottles - 9 regular soda bottles = 8 diet soda bottles.\n* **Total items:** 8 diet soda bottles + 9 regular soda bottles + 29 apples = 46 items\n\nNow, to figure out how many groups you can create, you need to know **how many items you want in each group**.  \n\n**For example:**\n\n* If you want groups of 2, you could create 23 groups (46 items / 2 items per group = 23 groups).\n* If you want groups of 5, you could create 9 groups (46 items / 5 items per group = 9 groups with some leftover). \n\n\nLet me know how many items you want in each group, and I can tell you how many groups you can make! \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit of a trick!  \n\nThe information about Jake, Steven, and Jill's peaches doesn't tell us anything about David or how many crunches he did. \n\nWe need more information to figure out how many crunches David did. \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 45.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some confusing information! It talks about peaches and then asks about chapters read per day.  \n\nLet's focus on the peach part of the problem:\n\n* **Jake's peaches:** Jake has 4 fewer peaches than Steven, who has 12. So Jake has 12 - 4 = 8 peaches.\n* **Jill's peaches:** Steven has 67 more peaches than Jill. This means Jill has 12 - 67 = -55 peaches.  You can't have negative peaches! \n\nIt seems like there might be a mistake in the problem. \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 332.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve this problem:\n\n**1. Find the number of t-shirts sold at the Texas Tech game:**\n\n* Total t-shirts sold - t-shirts sold at Arkansas game = t-shirts sold at Texas Tech game\n* 163 - 89 = 74 t-shirts\n\n**2. Calculate the total earnings:**\n\n*  T-shirts sold * profit per t-shirt = total earnings\n* 163 * $98 = $15994\n\n**The problem asks about water bottles, but there's no information about water bottles in the given information.  Please provide more context or details about the water bottles.** \n\n\nLet me know if you have any other questions! \n\n",
+        "answer": 22.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! The information about Jack's emails has nothing to do with children on a bus.  \n\nThere's not enough information to know how many children were on the bus before the bus stop. \n\n",
+        "answer": 39.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! Here's how to figure out how many peaches each person has:\n\n* **Steven's peaches:** Steven has 18 more peaches than Jill, who has 87. So Steven has 87 + 18 = 105 peaches.\n* **Jake's peaches:** Jake has 5 fewer peaches than Steven, who has 105. So Jake has 105 - 5 = 100 peaches.\n\n**The problem doesn't tell us anything about a baker or cakes.**  We only know about the number of peaches Jake, Steven, and Jill have. \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 111.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about wood and nails, but then asks about birds.  \n\nThere's not enough information to figure out how many birds flew away or stayed.  We need more clues about the birds! \ud83d\udc26 \n\n\nLet me know if you want to try a different problem. \ud83d\ude0a \n\n",
+        "answer": 31.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out the cost of a candy bar.  \n\nThe information about soda and apples is irrelevant to the price of a candy bar. \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! Here's why:\n\n* **We don't know how many cookies Dave had to start with.** The problem only tells us about Brenda's mother and how many cookies she made. \n\nTo figure out how many cookies Dave had left, we need to know:\n\n* **How many cookies Dave started with.**\n* **How many cookies Dave ate.** \n\n\nLet me know if you have that information, and I can help you solve it! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many people are in a school. \n\nHere's why:\n\n* **The problem is about Dave's apps:** It tells us about Dave's phone and the apps he has, not about a school.\n* **No school information:** There's nothing in the problem that mentions a school or the number of people in it. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 1396.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Start with the total games:** Kelly has 106 games.\n* **Subtract the games she wants to keep:** She wants 6 games left.\n* **Calculate the difference:** 106 - 6 = 100\n\n**Answer:** Kelly needs to give away 100 games. \n\n",
+        "answer": 105.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many push-ups Zachary did. \n\nHere's why:\n\n* **The cracker problem:** This part tells us about Matthew and his friends, but it doesn't mention Zachary at all.\n* **Missing information:** We need information about Zachary and his push-ups to solve that part of the problem. \n\n\nLet me know if you have another question! \n\n",
+        "answer": 35.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many kids Fred and Jason played with. \n\nHere's why:\n\n* **The problem focuses on money:** The information given is about how much money Fred and Jason earned washing cars.\n* **No mention of playing:** There's no information about Fred and Jason playing with any kids. \n\n\nLet me know if you have a different question about Fred and Jason's car washing earnings! \n\n",
+        "answer": 33.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Divide the total candy by the number of bags:** 42 pieces of candy / 2 bags = 21 pieces of candy per bag.\n\n\n**Answer:** Each bag had 21 pieces of candy. \n\n",
+        "answer": 18.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question is a bit tricky! \n\nThe number of emails Jack received doesn't tell us anything about eggs.  \n\nTo figure out how many eggs each group has, we need more information about the eggs. \ud83e\udd5a \n\n",
+        "answer": 5.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n**1. Find the number of cakes left:**\n\n* Baker started with 43 cakes and sold 78: 43 - 78 = -35 \n* This means the baker doesn't have enough cakes to make any packages.\n\n**2. Find the number of pastries left:**\n\n* Baker started with 114 pastries and sold 154: 114 - 154 = -40\n* This means the baker doesn't have enough pastries to make any packages either.\n\n\n**Answer:** The baker cannot make any packages because they don't have enough cakes or pastries left. \n\n",
+        "answer": 17.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem is a bit tricky! Here's why:\n\n* **Marbles and Cakes:** The problem talks about marbles and then asks about cakes. These are different things.\n\n* **Missing Information:** We don't know how many cakes the baker has to begin with. \n\nTo solve a problem like this, we need to make sure all the information is about the same thing and that we have all the pieces we need. \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 4.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about tables and chairs, but then asks about birds flying to Africa and Asia.  \n\nThere's not enough information to answer the question about the birds. We need to know how many bird families flew to each place to figure out the difference. \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 27.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about Fred and Jason's earnings is meant to distract you.  There's no information given about birds and storks. \n\nSo the answer is: We don't know how many birds and storks are on the fence. \n\n",
+        "answer": 13.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Apples picked:** Rachel picked 4 trees * 7 apples/tree = 28 apples.\n* **Total apples:** She started with 28 apples + 29 apples = 57 apples.\n\nThe problem asks about how many items her shelves can hold, not how many apples she has.  We don't have enough information to know how many items her shelves can hold. \n\n\nLet me know if you have any other questions!\n",
+        "answer": 72.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! The information about the soda bottles doesn't help us figure out how long it takes to fill drums of grapes. \n\nTo solve the grape problem, we need more information, such as:\n\n* **How many grapes fit in one drum?**\n* **How many grapes can be harvested or collected per day?** \n\n\nLet me know if you have that information, and I can help you calculate the number of days! \n\n",
+        "answer": 30.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many crayons were lost or given away. \n\nHere's why:\n\n* **It tells us about the Ferris wheel's capacity:** We know how many people each type of seat holds, but not how many people are actually riding the Ferris wheel.\n* **Crayons are not mentioned:** There's no connection between the Ferris wheel and crayons in the problem. \n\n\nLet me know if you have a different question about the Ferris wheel or want to try a different problem! \n\n",
+        "answer": 367.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about soda and water bottles, but then asks about trees and a typhoon.  \n\nThere's not enough information to figure out how many trees survived or died. \n\nLet me know if you'd like to try a different problem! \ud83c\udf33 \ud83d\ude0a \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a bit of a trick question! \n\nThe information about the soda is meant to distract you.  \n\nThere's not enough information to know how many storks are sitting on a fence.  \n\n",
+        "answer": 8.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many push-ups Zachary and John did. \n\nHere's why:\n\n* **T-shirt sales and push-ups are unrelated:** The information about the t-shirt sales tells us nothing about how many push-ups anyone did. \n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 30.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out the depth of the water or Dean's height. \n\nHere's why:\n\n* **Book Information:** The information about Frank reading 22 pages per day for 569 days only tells us how long it took him to finish the book. It doesn't say anything about water or Dean.\n\nTo solve a problem about water depth and someone's height, we would need information like:\n\n* **Water depth:**  A measurement of how deep the water is.\n* **Dean's height:** A measurement of how tall Dean is. \n\n\nLet me know if you have a different problem you'd like to try! \n\n",
+        "answer": 81.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about balloons, but then asks about seeds and flowerbeds.  \n\nWe don't have enough information to figure out how many seeds they planted. \n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 5.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "The question is a bit tricky! It tells us about Rachel's homework, but then asks about Katie and her friends.  \n\nWe don't have any information about Katie or how much homework she has.  \n\nTo figure out how many more games Katie has than her friends, we need to know:\n\n* **How many games Katie has.**\n* **How many games her friends have.** \n\n\nLet me know if you can provide that information! \n\n",
+        "answer": 6.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a bit of a trick question! \n\nThe amount of time Ryan spends learning languages doesn't tell us anything about the size of her rooms or how much carpet she needs.  \n\nTo figure out how much carpet she needs, we'd need to know the area of each room she wants to carpet. \n\n",
+        "answer": 6840.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about the birds and storks doesn't help us figure out how many peaches Steven has.  \n\nWe need more information to know how many peaches Steven has. \n\n",
+        "answer": 28.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has a little trick! Paco can't give away or eat more cookies than he has. \n\nHere's why:\n\n* **Start:** Paco has 6 cookies.\n* **Giving away:** He can't give away 30 cookies because he only has 6.\n\nLet's adjust the problem to make it solvable. Maybe Paco had more cookies to begin with? \n\n\nLet me know if you want to try a different number! \n\n",
+        "answer": 4.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Start with the initial amount:** Baker had 170 cakes.\n* **Subtract the cakes sold:** 170 - 78 = 92 cakes left.\n* **Add the new cakes:** 92 + 31 = 123 cakes.\n\n\n**Answer:** Baker would still have 123 cakes.\n",
+        "answer": 15.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many Ace cards and baseball cards Nell has. \n\nThe information about Shirley selling trefoils is irrelevant to the question about Nell's cards. \n\nWe need more information about Nell's card collection to solve this problem. \n\n",
+        "answer": 91.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about the pizzas and people doesn't help us figure out how far the end of a cave is.  \n\nTo know how far the end of a cave is, you'd need to measure it or have some information about its length. \ud83c\udf55\u26f0\ufe0f \n\n",
+        "answer": 2226.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "The problem gives information about flowers, not marbles.  \n\nHere's how to solve the flower problem:\n\n* **Roses:** Jessica added 10 roses - 12 roses = -2 roses. This means she actually removed 2 roses.\n* **Orchids:** Jessica added 21 orchids - 2 orchids = 19 orchids. \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 21.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Mary's baking but then asks about Dave and tickets.  \n\nThere's not enough information to figure out how many tickets Dave used. This problem seems to have mixed up some details. \n\n\nLet me know if you'd like to try a different problem! \ud83d\ude0a \n\n",
+        "answer": 5.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve this problem:\n\n* **Find the number of slices per pizza:** Divide the total slices by the number of pizzas: 14 slices / 7 pizzas = 2 slices per pizza.\n\n\nLet me know if you have any other word problems you'd like help with! \n\n",
+        "answer": 12.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem seems to have some unrelated information! \n\nHere's why:\n\n* **T-shirt Sales:** The problem tells us about t-shirt sales and profits, but then asks about peaches.\n* **Missing Peach Information:** There's no information given about the number of green peaches or red peaches.\n\nTo solve a problem, we need all the necessary information.  \n\nLet me know if you have a different question about t-shirt sales or if you want to provide the peach information! \n\n",
+        "answer": 6.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many baseball cards or Ace cards Nell has. \n\nThe information about movies and books is irrelevant to the question about Nell's cards. \n\nWe need more information about Nell's card collection to solve this! \n\n",
+        "answer": 123.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has a little trick in it! \n\nThe question asks how many **apples** Haley used, but the story is about marbles.  \n\nHaley used **zero** apples. \n\n\nLet me know if you'd like to figure out how many boys Haley gave marbles to! \n\n",
+        "answer": 41.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It tries to confuse you by mentioning crackers and cakes, but the question asks about the number of pages in a book.  \n\nThere's not enough information to figure out how many pages are in a book. \n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 125.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about the nails and wood planks is irrelevant to the question about people on a train.  There's not enough information to know how many people are on the train. \n\n\nLet me know if you'd like to try a different riddle! \n\n",
+        "answer": 19.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! The information about the oranges and sacks doesn't help us figure out how many visitors went to Buckingham Palace. \n\nWe need more information to solve this problem, specifically:\n\n* **The number of visitors on the current day:**  We need to know how many people visited Buckingham Palace on the day he saw the oranges being harvested.\n* **The number of visitors on each of the previous 245 days:** We need to know the average number of visitors per day or the total number of visitors over those 245 days. \n\n\nLet me know if you can provide that information, and I can help you calculate the difference! \n\n",
+        "answer": 57.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many cookies Edward ate or gave away. \n\nHere's why:\n\n* **The problem focuses on spending:** The information about books, pens, and the remaining money only tells us about Edward's spending habits.\n* **No mention of cookies:** There's no information about Edward buying, eating, or giving away cookies. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem seems to be missing some information! It asks about old games, but there's no information about games in the story. \n\nLet's focus on what we *do* know:\n\n* **Yesterday's Baking:**\n    * Chocolate chip: 144 cookies\n    * Raisin: 397 cookies\n* **This Morning's Baking:**\n    * Chocolate chip: 403 cookies\n    * Raisin: 85 cookies\n\n**To find the total number of each type of cookie, we can add:**\n\n* **Total Chocolate Chip:** 144 + 403 = 547 cookies\n* **Total Raisin:** 397 + 85 = 482 cookies\n\n\nLet me know if you have any other questions about the cookies! \ud83c\udf6a \n\n",
+        "answer": 121.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about apples but then asks about kids.  \n\nThere's not enough information to know how many kids Rachel played with. \n\nLet me know if you'd like to try a different word problem! \ud83c\udf4e \ud83d\ude0a \n\n",
+        "answer": 26.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is about push-ups, not orchids! \n\nHere's how to solve the push-up problem:\n\n* **David's push-ups:** David did 51 + 22 = 73 push-ups.\n* **John's push-ups:** John did 73 - 4 = 69 push-ups.\n\n\nLet me know if you'd like to try another word problem! \n\n",
+        "answer": 4.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that we don't need to solve it! Here's how to figure out the answer:\n\n**1. Find the total cookies baked yesterday:**\n\n* Chocolate chip: 519\n* Raisin: 300\n* Total yesterday: 519 + 300 = 819 cookies\n\n**2. Find the total cookies baked this morning:**\n\n* Chocolate chip: 359\n* Raisin: 280\n* Total this morning: 359 + 280 = 639 cookies\n\n**3. Find the total number of cookies:**\n\n* Total cookies: 819 + 639 = 1458 cookies\n\n\nLet me know if you have any other questions! \n\n",
+        "answer": 98.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem doesn't make sense! \n\nThe information about soda bottles doesn't tell us anything about the number of students.  \n\nTo figure out the number of students, we'd need information about how many sodas each student bought or something similar. \n\n",
+        "answer": 22800.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky!  \n\nThe information about the blocks and the tower doesn't help us figure out how far a mouse jumped.  \n\nWe need more information to solve that! \ud83d\udc2d \n\n",
+        "answer": 8.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many bird families were near the mountain. \n\nThe problem is about Ed and Doug's marbles, not about birds. \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 14.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about the houses and junk mail is irrelevant.  There's no information given about Rebecca or how many eggs she has. \n\n",
+        "answer": 22.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It talks about peaches in baskets, but then asks about cookies.  \n\nThere's not enough information to figure out how many cookies someone had. \ud83c\udf51\ud83c\udf6a \n\n\nLet me know if you'd like to solve a different problem about the peaches! \ud83d\ude0a \n\n",
+        "answer": 54.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about food suggestions but then asks about peaches.  \n\nThere's no information about peaches in the problem.  We can't figure out how many peaches are in the baskets. \n\n",
+        "answer": 308.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! Here's how to figure out the number of boys:\n\n* **Find the number of boys:**\n\n   * Since there are 142 more boys than girls, there are 700 + 142 = 842 boys.\n\n* **Total students:**\n\n   * The total number of students is 700 (girls) + 842 (boys) = 1542 students. \n\n\nLet me know if you have any other questions! \n\n",
+        "answer": 3.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem doesn't make sense! \n\nWaiters serve customers, they don't have packages.  \n\nIt seems like there might be some missing information or a misunderstanding. \n\n\nLet me know if you have a different question! \ud83d\ude0a \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many books and action figures Lucy has. \n\nHere's why:\n\n* **Irrelevant Information:** The information about Lucy buying cookies and cake, and having change, doesn't tell us anything about books or action figures.\n* **Missing Information:** We need to know how many books and action figures Lucy has to solve the problem. \n\n\nLet me know if you have a different problem you'd like to try! \n\n",
+        "answer": 6.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "The question asks about apples, but the story is about strawberries.  \n\nAlso, we need to know how many strawberries Adam has to figure out the difference. \n\nCan you please clarify the question? \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question doesn't make sense.  \n\nGiving away games doesn't involve jumping.  \n\nMaybe you meant to ask something else? \n\nLet me know if you have a different question! \ud83d\ude0a \n\n",
+        "answer": 66.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n**1. Find the number of t-shirts sold at the Texas Tech game:**\n\n* Total t-shirts sold - Arkansas game t-shirts = Texas Tech game t-shirts\n* 242 - 115 = 127 t-shirts\n\n**2. Calculate the total earnings from the Arkansas game:**\n\n* T-shirts sold at Arkansas game * profit per t-shirt = Arkansas game earnings\n* 115 * $106 = $12,190\n\n**3. Calculate the total earnings from the Texas Tech game:**\n\n* T-shirts sold at Texas Tech game * profit per t-shirt = Texas Tech game earnings\n* 127 * $106 = $13,442\n\n**4. Calculate the total earnings from both games:**\n\n* Arkansas game earnings + Texas Tech game earnings = Total earnings\n* $12,190 + $13,442 = $25,632\n\n\n**Therefore, the Razorback t-shirt shop made $25,632 in total from the two games.** \n\nThe problem doesn't provide information about how much money they had initially. \n\n",
+        "answer": 5.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It tells us about t-shirt sales but then asks about cups of sugar.  \n\nIt seems like there's some missing information. To figure out how many more cups of sugar are needed, we'd need to know:\n\n* **What is the sugar for?** Is it for a recipe?\n* **How much sugar is already there?** \n\nLet me know if you can provide more details! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about blocks and building, but then asks about books and action figures.  \n\nThere's not enough information to answer the question. We need to know how many books and action figures Randy has to figure out the difference. \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 4.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe problem tells us about balloons, but asks about chairs.  We don't have enough information to know how many chairs Allan and Jake have in their backyard. \n\n",
+        "answer": 143.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us any information about students or food items. It only tells us how Ryan spends his time learning languages. \n\nTo figure out how many students participated in suggesting new food items, we need more information! \n\n",
+        "answer": 826.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n**1. Find the total gum from the packages:**\n\n* Multiply the number of packages by the gum per package: 43 packages * 23 pieces/package = 989 pieces\n\n**2. Add the extra gum:**\n\n*  Total gum: 989 pieces + 8 pieces = 997 pieces\n\n**3. Divide the total gum by the number of people:**\n\n*  You didn't specify how many people are sharing the gum.  \n\n**To get the answer, tell me how many people are sharing the gum!** \n\n\nLet me know, and I'll calculate how much each person gets. \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky!  \n\nThe information about Paul's books and his friend doesn't tell us anything about campers going rowing. There's not enough information to answer that question. \n\n\nLet me know if you'd like to solve the problem about Paul's books! We can figure out how many he sold. \n\n",
+        "answer": 17.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some missing information!  \n\nHere's why we can't solve it:\n\n* **We need to know how many action figures each shelf can hold.** The problem tells us about the wood and nails, but not the size or capacity of the shelves. \n\nLet me know if you can provide that information, and I can help you calculate the total number of action figures the shelves could hold! \n\n",
+        "answer": 44.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It seems like there's some extra information. \n\nHere's how to solve for Melissa's points per game:\n\n* **Divide the total points by the number of games:** 81 points / 3 games = 27 points per game.\n\nThe information about the harvest doesn't relate to Melissa's game scores. \n\n\nLet me know if you have another question! \n\n",
+        "answer": 76.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about the mailman and the junk mail is irrelevant to how many push-ups David did.  \n\nThere's no way to know how many push-ups David did. \n\n",
+        "answer": 78.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Flour needed:** The recipe needs 7 cups of flour.\n* **Flour used:** Mary already used 2 cups.\n* **Flour left:** 7 - 2 = 5 cups of flour left.\n\n\nThe question asks about \"blocks,\" but the recipe only lists ingredients in cups.  It seems like there might be some missing information. \n\n",
+        "answer": 23.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many bottle caps Jesse has. Here's why:\n\n* **Carpet size and bottle caps are unrelated:** Knowing the size of the carpet doesn't tell us anything about Jesse's collection of bottle caps. \n\nLet me know if you have another question! \n\n",
+        "answer": 65.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit of a trick! \n\nThe information about bananas and groups doesn't help us figure out how many kids are in Lawrence County.  \n\nTo find the number of kids in Lawrence County, you'd need to look up that information from a reliable source like:\n\n* **The US Census Bureau:** They collect population data.\n* **Lawrence County's official website:** They may have demographic information. \n\n\nLet me know if you have any other questions! \n\n",
+        "answer": 1363293.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! Here's why:\n\n* **Eggs, bananas, and marbles are distractions:** The information about the eggs, bananas, and marbles isn't relevant to figuring out the number of pupils and parents.\n\n* **Missing information:** The problem doesn't tell us how many pupils and parents were present. \n\nTo solve this, we need more information about the number of pupils and parents. \n\n",
+        "answer": 347.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't make sense! Here's why:\n\n* **Weight Loss:** It's impossible for someone to lose that much weight in a week. Healthy weight loss is gradual.\n* **Sugar and Weight:**  Adding sugar doesn't help with weight loss. Sugar actually adds calories, which can lead to weight gain.\n\nIt seems like there might be some errors in the information given. \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many white t-shirts someone will have. \n\nHere's why:\n\n* **We don't know who \"she\" is:** The problem doesn't tell us who is getting the t-shirts.\n* **No connection to t-shirts:** The information about campers rowing and hiking doesn't tell us anything about t-shirts. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 3021.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! \n\nHere's why:\n\n* **We know about action figures:** Jerry starts with 9, adds 7 more, for a total of 16 action figures (9 + 7 = 16).\n* **We don't know about the books:** The problem tells us Jerry has 10 books, but it doesn't say anything about how many pages each book has.\n\n**To find the total number of pages, we need to know how many pages are in each book.** \n\n\nLet me know if you want to try a different problem! \n\n",
+        "answer": 1891.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It asks about \"fishes\" disappearing, but the story is about crayons. \n\nLet's focus on the crayon information:\n\n* **Start:** Paul had 589 crayons.\n* **Gave away:** He gave away 571 crayons.\n* **Lost:** He lost 161 crayons.\n\nTo find out how many crayons are left, we need to do some math:\n\n1. **Crayons after giving some away:** 589 - 571 = 18 crayons\n2. **Crayons after losing some:** 18 - 161 = -143 crayons\n\nThis answer doesn't make sense because you can't have negative crayons! It seems like Paul lost more crayons than he had left after giving some away. \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 4.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! The number of emails Jack received has nothing to do with the length of his hair.  \n\nYou need more information to know how long his hair was before he cut it. \n\n",
+        "answer": 30.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! The information about Jack's emails doesn't tell us anything about children getting off a bus. \n\nWe need more information to figure out how many children got off the bus. \n\n\nLet me know if you have another clue! \n\n",
+        "answer": 22.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us a lot of information about the Buckingham Palace, but none of it helps us figure out how many roses and orchids are in a vase. \n\nTo solve this, we need more information about the flowers.  \n\nLet me know if you can add some details about the roses and orchids! \ud83c\udf39\ud83c\udf38 \n\n\n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It tells us about cookies Helen baked, but then asks about crayons.  \n\nThere's not enough information to figure out how many crayons were lost or given away. \ud83c\udf6a \ud83e\udd14 \ud83d\udd8d\ufe0f \n\n\nLet me know if you'd like to solve a different problem about Helen's cookies! \ud83d\ude0a \n\n",
+        "answer": 229.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem gives us information about peaches, but asks about oranges! There's not enough information to answer the question about oranges. \n\nHere's how we can solve the peach part of the problem though:\n\n* **Jill's peaches:** Steven has 13 more peaches than Jill, so Jill has 19 - 13 = 6 peaches.\n* **Jake's peaches:** Jake has 18 fewer peaches than Steven, so Jake has 19 - 18 = 1 peach. \n\n\nLet me know if you have a different question about peaches, or if you can provide more information about the oranges! \n\n",
+        "answer": 19.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many push-ups Zachary and David did. \n\nHere's why:\n\n* **It focuses on Lucy's groceries:** The problem tells us about Lucy buying cookies and cake, but nothing about Zachary or David.\n* **No information about push-ups:** There's no mention of push-ups anywhere in the problem. \n\n\nLet me know if you have a different problem you'd like help with! \n\n",
+        "answer": 20.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about Ryan's language learning doesn't tell us anything about how much she spends at the supermarket.  \n\nWe need more information to figure out her supermarket spending. \n\n",
+        "answer": 31.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is about the length of book chapters, not about students and food preferences.  \n\nTo find the difference in length between the chapters, we can subtract:\n\n48 pages (chapter 1) - 11 pages (chapter 2) = 37 pages \n\n**Answer:** The first chapter is 37 pages longer than the second chapter. \n\n\nLet me know if you have any other questions!\n",
+        "answer": 61.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many kids someone played with! \n\nIt only tells us about peaches in a basket.  \n\nTo solve a problem about kids playing, we'd need information like:\n\n* **How many kids played on Monday?**\n* **How many kids played on Wednesday?** \n\n\nLet me know if you have a different question about the peaches! \ud83c\udf51 \n\n",
+        "answer": 6.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many balloons Allan and Jake have. \n\nHere's why:\n\n* **We only know the total number of people:** The fact that there were 22 parents and 676 people in total doesn't tell us anything about how many balloons anyone has.\n* **No information about balloons:** The problem doesn't mention anything about balloons being given out or how many Allan and Jake have. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many candy bars Julia bought. \n\nThe number of kids Julia played tag with doesn't tell us anything about candy bars. \ud83c\udf6b \n\nWe would need more information to solve that! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about a jumping contest but then asks about peaches.  \n\nThere's no information about Jake or how many peaches he has.  \n\nTo solve the jumping contest part, we could figure out:\n\n* **Frog's jump:** 25 inches (grasshopper) + 18 inches = 43 inches\n* **Mouse's jump:** 43 inches (frog) + 2 inches = 45 inches \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 7.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This is a trick question!  \n\nThe information about the cake recipe and the flour Mary used doesn't tell us anything about a frog or how far it jumped. \ud83d\udc38 \n\n\nLet me know if you'd like to solve a different problem! \ud83d\ude0a \n\n",
+        "answer": 11.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question seems unrelated to the information about Jake and Steven's fruit. \n\nTo answer your question about movies and books, I need more information! Please tell me:\n\n* How many movies have you read?\n* How many books have you read? \n\n\nLet me know, and I can help you figure out the difference! \n\n",
+        "answer": 14.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem step-by-step:\n\n* **Steven's peaches:** Steven has 4 peaches.\n* **Jill's peaches:** Steven has 11 more peaches than Jill, so Jill has 4 - 11 = -7 peaches. This doesn't make sense in real life, you can't have negative peaches! There might be an error in the problem.\n* **Jake's peaches:** Jake has 12 fewer peaches than Steven, so he has 4 - 12 = -8 peaches. Again, this doesn't make sense.\n\n\n**It seems like there's a mistake in the information given in the problem.**  It's impossible for someone to have a negative number of peaches. \n\n",
+        "answer": 8066.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many apps Fred added or deleted. \n\nHere's why:\n\n* **Money and Apps:** The information about Fred and Jason's money doesn't tell us anything about apps. \n* **Missing Information:** We need to know how much money Fred earned washing cars to figure out the difference between his starting amount and his ending amount.\n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe information about books and movies is meant to distract you.  There's no information about people on a bus. \n\nTo figure out how many people are on a bus, you'd need information about the bus, not about books and movies. \n\n\nLet me know if you'd like to try a different riddle! \n\n",
+        "answer": 16.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Find the total number of bottles Debby drank:** 301 (total bottles) - 157 (bottles left) = 144 bottles\n* **Find the number of days Debby drank water:** 144 (bottles drank) / 144 (bottles per day) = 1 day\n\n\n**Answer:** Debby drank water for **1** day. \n\n",
+        "answer": 83.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem doesn't give us information about marbles! It tells us about aquariums and animals.  \n\nHere's what we can figure out:\n\n* **Total aquariums:** 56 saltwater + 10 freshwater = 66 aquariums\n* **Total animals:** 66 aquariums * 39 animals/aquarium = 2574 animals \n\n\nLet me know if you have a different question about Doug and his aquariums! \n\n",
+        "answer": 9.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem is missing some information!  \n\nTo figure out how many minutes the machine worked, we need to know:\n\n* **How many minutes the machine takes to process one bag of cans.** \n\nLet me know if you have that information, and I can help you calculate the total time! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about a grasshopper and a frog jumping, but then asks about children on a bus.  \n\nThese two things aren't related. To solve the bus problem, we need information about how many children were on the bus before and after the stop. \n\nCan you give me that information? \n\n",
+        "answer": 8.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Olivia's money, but then asks about book chapters.  \n\nThere's not enough information to figure out how many pages are in each chapter. \n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 68.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how much anything costs! Here's why:\n\n* **We don't know what's being bought:**  Are we talking about packs of gum? Packs of playing cards? Packs of something else entirely?\n* **We only know about the number of customers:** The number of customers doesn't tell us anything about the price of items.\n\n\nLet me know if you have a different problem in mind! \n\n",
+        "answer": 51.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! \n\nThe information about Katie's games and her friends' games doesn't help us figure out how many sacks of oranges they'll have.  \n\nTo solve that, we need to know:\n\n* **How many oranges do they harvest each day?**\n* **How many oranges fit in one sack?** \n\n\nLet me know if you have that information, and I can help you calculate the number of sacks! \n\n",
+        "answer": 153.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit of a trick! \n\nThe information about the grape pickers and drums of grapes is irrelevant to the question about bottle caps.  \n\nThere's not enough information to figure out how many bottle caps he found at the park. \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 32.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky!  \n\nThe information about playing tag doesn't tell us anything about flour.  \n\nTo figure out how many cups of flour Julia used, we need more information about what she was baking or making. \n\n\nLet me know if you have another question! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! Here's why:\n\n* **We don't know how many kids Julia played with on Tuesday.** The problem only tells us she played with 4 kids on Monday.\n* **Crayons and erasers aren't mentioned.** The problem is about playing tag, not about crayons and erasers. \n\nTo solve a problem, we need all the information.  Can you give me more details? \n\n\nLet me know if you have a different problem you'd like to try! \n\n",
+        "answer": 66.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! \n\nHere's what we know:\n\n* **Jerry's toys:** Jerry starts with 3 books and 4 action figures and adds 2 more action figures.\n* **Harvesting:**  There's information about harvesting sacks over 14 days, but we don't know how many sacks were harvested in total or how many people were harvesting.\n\n**To solve a problem, we need a clear question and the right information.** \n\nLet me know if you have a different question about Jerry's toys or the harvesting! \n\n",
+        "answer": 4.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us any information about boys in a school. It only tells us about Dave's apps and files. \n\nTo figure out how many apps and files Dave deleted, we could do this:\n\n* **Apps:** 19 (starting apps) - 6 (apps left) = 13 apps deleted\n* **Files:** 18 (starting files) - 15 (files left) = 3 files deleted \n\n\nLet me know if you have another question! \n\n",
+        "answer": 337.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many pieces of candy are in each bag. Here's why:\n\n* **Cake information is irrelevant:** The problem tells us about cakes, but doesn't mention anything about candy or bags of candy. \n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 8.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many chairs Edward has. \n\nHere's why:\n\n* **Spending on books and pens:** This tells us how much money Edward spent, but nothing about chairs.\n* **Money remaining:** This tells us how much money Edward has left, but again, nothing about chairs.\n\nTo figure out how many chairs Edward has, we would need information about his chairs, like:\n\n* **How many chairs he started with.**\n* **If he bought any chairs.**\n* **If he gave any chairs away.** \n\n\nLet me know if you have more information about the chairs! \n\n",
+        "answer": 174.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It seems like there's some extra information about bookshelves and books that doesn't relate to the question about visitors at Buckingham Palace. \n\nTo solve the problem about the visitors, we need more information:\n\n* **How many visitors came to Buckingham Palace on the previous day?** \n\nLet me know that number, and I can help you figure out the difference! \n\n",
+        "answer": 61.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about roses and a vase, but then asks about a Ferris wheel.  \n\nThere's not enough information to figure out how many people can ride the Ferris wheel. We need to know how many seats the Ferris wheel has and how many people can fit on each seat. \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 84.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Find the number of rounds:** Divide the total points by the points per round: 78 points / 3 points/round = 26 rounds.\n\n* **The question is tricky!** The problem asks how many *books* Luke sold, but the information given is about a trivia game.  There's no connection between the trivia game and book sales. \n\n\nLet me know if you have another question! \n\n",
+        "answer": 109.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about cakes but then asks about storks and birds.  \n\nThere's not enough information to figure out how many storks and birds are on the fence. \n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out the cost of a t-shirt. \n\nThe information about oranges is irrelevant to the price of a t-shirt. We would need information about the t-shirts, like:\n\n* **The price of the t-shirts:** This is the most important piece of information!\n* **Any discounts or sales:** Are the t-shirts on sale? Is there a bulk discount?\n* **The number of t-shirts:**  Are we talking about the cost of one t-shirt or a group of t-shirts? \n\n\nLet me know if you have more information about the t-shirts! \n\n",
+        "answer": 17.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! \n\nThe information about snakes and alligators doesn't help us figure out how many kids went to camp in Lawrence County.  \n\nWe need more information to solve that problem. \n\n",
+        "answer": 30057.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how much money is left. Here's why:\n\n* **We don't know the price of roses:**  We need to know how much each rose costs to calculate the total cost.\n* **We don't know if the roses were bought:** Maybe the roses in the garden were free!\n\nLet me know if you want to try a different problem! \ud83c\udf39 \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! Here's how to figure out the total homework pages:\n\n* **Biology pages:** 5 (math) + 10 (reading) + 6 (biology) = 21 pages of homework\n\nLet me know if you'd like to know how much Rachel earns per page or something else related to the homework! \n\n",
+        "answer": 22090603.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how much money is left. Here's why:\n\n* **We don't know how much money Jerry started with.** \n* **The problem only tells us about toys and books, not money.**\n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us any information about Fred or how much money he has.  \n\nWe only know about the number of girls and boys in a school. To figure out how much money Fred has, we'd need more information about him! \n\n",
+        "answer": 192.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out Bobby's weight. \n\nHere's why:\n\n* **Candy and weight are different:** Eating candy affects how many calories Bobby consumes, but it doesn't directly tell us his weight.\n* **We need more information:** To know Bobby's weight, we'd need to know his starting weight. \n\n\nLet me know if you have any other fun math problems! \n\n",
+        "answer": 34.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem seems to have some mixed-up information! \n\nIt talks about campers going rowing, but then asks about chapters read.  \n\nTo figure out how many chapters someone read, we need to know how many chapters they read each day, not how many campers went rowing. \n\nCan you please clarify the question? \n\n\n\n",
+        "answer": 44.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many more people can join a wheel. \n\nHere's why:\n\n* **Emails don't equal people:**  Just because Jack received emails doesn't mean each email came from a different person. One person could have sent multiple emails.\n* **No information about a wheel:** The problem mentions a \"wheel\" but doesn't explain what kind of wheel it is or how it relates to the emails. \n\nTo solve this, we need more information about:\n\n* **The context:** What is the \"wheel\"? Is it a group, a game, a device?\n* **The relationship between emails and the wheel:** How do the emails relate to people joining the wheel? \n\n\nLet me know if you can provide more details! \n\n",
+        "answer": 68.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many boys are in the school. Here's why:\n\n* **Candy Bar Cost:** The problem tells us about Dan buying candy bars, but it doesn't connect that information to the number of boys in a school.\n\n* **Missing Information:** To find the number of boys, we would need information like:\n    * The total number of students in the school.\n    * The percentage of students who are boys. \n    * Some other clue that links candy bars to the number of boys. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 1145.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many bottles of soda Rachel has. \n\nIt only tells us about her homework! \n\nLet me know if you have another problem you'd like to solve. \ud83d\ude0a \n\n",
+        "answer": 58.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe length of the book's chapters doesn't tell us anything about the width of a room.  We need more information to figure out the width of a room. \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many trees Haley started with. \n\nHere's why:\n\n* **We only know about the trees that died:** The problem tells us 5 trees died, but not how many were alive before the typhoon.\n* **We need the starting number:** To find out how many trees Haley started with, we'd need to know the number of trees she had *before* the typhoon.\n\nLet me know if you have any other word problems! \n\n",
+        "answer": 128.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It asks about Dave's tickets, but the story is about Helen and her cookies.  \n\nThere's not enough information to figure out how many tickets Dave had. \n\n\nLet me know if you'd like to solve a different problem about Helen's cookies! \ud83d\ude0a\ud83c\udf6a \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many pieces of candy and chocolate Bobby ate. \n\nHere's why:\n\n* **Peach Problem:** The peach information only tells us about the peaches, not about Bobby's snacks.\n* **Missing Information:** We need to know how much candy and chocolate Bobby ate to solve that part of the problem. \n\n\nLet me know if you have another problem to solve! \n\n",
+        "answer": 51.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! Here's why:\n\n* **We don't know how many trees Haley has left.** The problem only tells us how many died. \n* **We don't know anything about wax.**  There's no information about wax and trees in the problem.\n\nTo solve this, we need more information. \n\nLet me know if you have any other details! \ud83c\udf33 \ud83d\udd6f\ufe0f \n\n",
+        "answer": 146.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! Here's why:\n\n* **We don't know how many marbles Josh lost.**  The problem only tells us he started with 9 and now has 4.\n* **We don't know anything about Ed or Doug.** The problem only mentions Josh.\n\n**To solve this, we need more information.** \n\nLet me know if you want to try a different word problem! \n\n",
+        "answer": 60.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This question can't be answered. We need to know the price per sack of oranges to calculate the daily earnings. \n\nFor example:\n\n* **If each sack sells for $10:** They would make $660 per day (66 sacks * $10/sack).\n* **If each sack sells for $25:** They would make $1650 per day (66 sacks * $25/sack). \n\n\nLet me know the price per sack, and I can tell you how much they make per day! \n\n",
+        "answer": 33.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to know how many marbles Dave has. \n\nHere's why:\n\n* **Tickets and marbles are different:**  The problem tells us about tickets Dave won and used, but it doesn't say anything about marbles. \n\nWe only know Dave has 14 tickets left. \n\n\nLet me know if you have another problem to solve! \n\n",
+        "answer": 13.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many magazines Adam has. \n\nHere's why:\n\n* **Action figures and magazines are different:** The problem tells us about Adam's action figures and shelves, but nothing about magazines. \n\nLet me know if you have another problem to solve! \n\n",
+        "answer": 460.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some confusing information! It talks about strawberries and then asks about books. \n\nLet's focus on the strawberry part:\n\n* **Start:** Marco and his dad had 24 pounds of strawberries.\n* **Loss:** Marco lost 9 pounds.\n* **Remaining:** Marco has 3 pounds left.\n\nLet me know if you'd like to solve for how many pounds his dad has now! \ud83c\udf53 \n\n\n\n",
+        "answer": 6.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit silly!  \n\nThe amount of junk mail Mary gives out has nothing to do with her cake recipe.  \n\nLet's focus on the baking:\n\n* Mary needs 13 cups of sugar total.\n* She's already added 2 cups.\n* She needs to add 13 - 2 = 11 more cups of sugar. \n\n\nLet me know if you'd like to figure out anything else about Mary's cake! \ud83c\udf70 \n\n",
+        "answer": 4.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It mixes information about birds migrating with a question about roses.  \n\nHere's what we know:\n\n* **Birds:** 38 bird families were near the mountain, 47 flew to Africa, and 94 flew to Asia.\n* **Roses:** We have no information about roses being cut or thrown away.\n\nTo solve a problem, we need all the necessary information.  \n\n**Can you please provide the information about the roses?** \n\nFor example:\n\n* \"She cut 25 roses from her garden and threw away 32.\" \n\n\nLet me know, and I can help you solve it! \n\n",
+        "answer": 6.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about peaches but then asks about storks and birds.  \n\nThere's not enough information to figure out how many storks and birds are on the fence. \n\nLet's focus on what we *can* figure out:\n\n* **Jake's peaches:** Steven has 16 peaches, and Jake has 9 fewer, so Jake has 16 - 9 = 7 peaches.\n* **Jill's peaches:** Jake has 18 more peaches than Jill, so Jill has 7 - 18 = -11 peaches. This doesn't make sense in real life, you can't have negative peaches! \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 1.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This question doesn't make sense! \n\nThe number of push-ups someone does has nothing to do with how much junk mail they should give out.  \n\nIt seems like there might be some confusion.  Let me know if you have a different question! \n\n",
+        "answer": 1088.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many kids stayed home. Here's why:\n\n* **We only know the Ferris wheel capacity:** This tells us how many people can ride at once, not how many people actually went to the park.\n* **We don't know how many kids went to the park:**  We need to know how many kids rode the Ferris wheel to compare that number to the kids who stayed home. \n\n\nLet me know if you have more information! \n\n",
+        "answer": 574664.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! Here's why:\n\n* **Apples and Grapes:** The information about apples doesn't help us figure out how many drums of grapes we can fill.\n\n* **Missing Information:** We need to know how many grapes fit in a drum and how many grapes the tree (or another source) produces each day to solve this. \n\n\nLet me know if you want to try a different problem! \n\n",
+        "answer": 17017.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about push-ups, but then asks about peaches in baskets.  \n\nThere's not enough information to figure out how many peaches are in each basket.  \n\nLet me know if you'd like to solve the push-up problem, though! We can figure out how many push-ups David did. \n\n",
+        "answer": 10.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many roses Lewis cut or threw away. Here's why:\n\n* **We only know her earnings:** The amount Lewis earns tells us about her pay rate, not the number of roses.\n* **Missing information:** We need to know how much Lewis earns per rose (or per hour, if she's paid hourly) and how many roses she throws away to solve this problem. \n\n\nLet me know if you have any other information! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many bottle caps Danny threw away or found. \n\nHere's why:\n\n* **The information about Edward's spending is irrelevant:**  The problem focuses on Danny and bottle caps, not Edward and his purchases.\n* **We need more information about Danny:** We need to know how many bottle caps Danny found and how many he threw away to solve the problem. \n\n\nLet me know if you have another problem to solve! \n\n",
+        "answer": 33.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't make sense! It seems like there's some information missing. \n\nHere's why:\n\n* **Money Problem:** The problem talks about Edward spending and receiving money, but then asks about pages. These things don't relate to each other.\n\nTo solve a problem, we need a clear question and information that connects to that question. \n\n\nLet me know if you have a different problem in mind! \n\n",
+        "answer": 23.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Gwen's birthday money, but then asks about Danny finding bottle caps and wrappers at the park.  \n\nThere's not enough information to figure out how many more bottle caps than wrappers Danny found. \n\nLet me know if you'd like to try a different problem! \ud83d\ude0a \n\n",
+        "answer": 16.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky!  \n\nThe information about the blocks and buildings doesn't help us figure out how much Randy pays for rent.  \n\nWe need more information to solve that.  \n\nLet me know if you have any other clues about Randy's rent! \n\n",
+        "answer": 527292.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n**1. Find the difference in profit:**\n\n*  Subtract the profit from a jersey from the profit from a t-shirt: $204 - $76 = $128\n\n**Answer:** A t-shirt costs $128 more than a jersey. \n\n\nLet me know if you have any other questions! \n\n",
+        "answer": 158.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some confusing information! \n\n* It talks about Baker making cakes, then buying more cakes, and selling cakes. \n* Then it asks about shirts, which have nothing to do with the cake information.\n\nIt seems like there might be a mistake in the problem.  \n\nLet me know if you want to try a different problem! \n\n",
+        "answer": 20.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out the cost difference between a jersey and a t-shirt. \n\nThe information about emails and letters is irrelevant to the question about clothing prices. \n\nLet me know if you have a different problem! \ud83d\ude0a \n\n",
+        "answer": 90.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't mention anything about flour! It's asking about Jake and Steven's fruit. Here's how to solve the fruit part:\n\n* **Peaches:** Jake has 12 peaches (Steven's peaches) - 3 peaches = 9 peaches.\n* **Apples:** Jake has 15 apples (Steven's apples) + 10 apples = 25 apples. \n\n\nLet me know if you'd like to try a different problem! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! Here's why:\n\n* **We can figure out how many pages are in each chapter:** 450 pages / 41 chapters = 11 pages per chapter.\n* **We know how long it took Frank to read the book:** 30 days.\n\n* **But, there's no information about crayons!**  The problem doesn't tell us how many crayons Frank started with or how many he used. \n\n\nWe can't figure out how many crayons Frank had left. \n\n",
+        "answer": 183.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many houses are in a block. \n\nHere's why:\n\n* **Room size vs. Block size:** Knowing the size of Jesse's room tells us nothing about the size of the block or how many houses fit on it.\n* **Blocks vary:** Blocks can have different numbers of houses depending on their size, the size of the houses, and how they are arranged. \n\n\nLet me know if you have more information about the block! \n\n",
+        "answer": 4.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "Here's how to solve the problem:\n\n* **Find out how many crayons Paul used:** 601 crayons - 336 crayons = 265 crayons\n\n* **The problem asks about erasers and crayons, not flour and sugar.**  There's no information about flour or sugar in the problem. \n\n\nLet me know if you have any other questions! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem seems to be mixing up information! \n\n* It talks about a ring toss game making money.\n* Then it asks about cookies and a friend.\n\nTo solve this, we need a problem that sticks to one topic. \n\nCould you please clarify what you'd like to know? \n\nFor example:\n\n* **If you want to know the total money made by the ring toss game:**  Add the earnings from the first 20 days and the remaining 16 days: $120 + $66 = $186.\n* **If you want a problem about cookies:** Give me a scenario like \"John ate 10 cookies and gave 5 to his friend. How many more cookies did he eat than give away?\" \n\n\nLet me know, and I'll be happy to help!\n",
+        "answer": 9.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky!  \n\nThe information about Mary's cake and the amount of flour she used doesn't tell us anything about Jack or his emails. \n\nTo figure out how many emails Jack received, you'd need information about Jack and his email. \n\n\nLet me know if you have a different question! \n\n",
+        "answer": 8.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! Here's why:\n\n* **Bead necklaces:** The information about Emily making necklaces is not related to oranges or harvesting.\n* **Oranges and harvest:** We only know about the number of days of harvest, but we don't know how many oranges are harvested each day.\n\n**To solve a problem about oranges, we need to know:**\n\n* How many oranges are harvested each day. \n\n\nLet me know if you have a different problem you'd like to solve! \n\n",
+        "answer": 143550.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a trick question! \n\nThe length of Robin's hair and how much it grew has nothing to do with how many people visited Buckingham Palace.  \n\nThere's no way to know how many people visited Buckingham Palace based on this information. \n\n",
+        "answer": 522.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "It seems like there's a typo in the question. It should probably say \"How many **items** does he still have?\" \n\nHere's how to solve the problem:\n\n* **Total wrappers:** 82 (found) + 61 (had) = 143 wrappers\n* **Total bottle caps:** 29 (found) + 42 (had) = 71 bottle caps\n* **Total items:** 143 wrappers + 71 bottle caps = 214 items\n\n\n**Answer:** Danny has a total of 214 items in his collection. \n\n",
+        "answer": 11.0,
+        "eval_result": 1
+    },
+    {
+        "model_answer": "This question is a bit tricky! Here's why:\n\n* **Cookies and Money:**  Knowing how many cookies you have doesn't tell us how much money you'll have. You need to know the price of each cookie or bag of cookies.\n\n**Here's how to figure out the cookies per bag:**\n\n* **Divide the total cookies by the number of bags:** 36 cookies / 4 bags = 9 cookies per bag \n\n\nLet me know if you have the price of the cookies, and I can help you calculate your earnings! \ud83c\udf6a\ud83d\udcb0 \n\n",
+        "answer": 3834.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about the number of students in a school and how many more girls joined, but it doesn't tell us anything about money. \n\nTo figure out how much money someone had initially, we would need information about their finances, not school enrollment. \n\n\nLet me know if you have a different question about the school or the students! \n\n",
+        "answer": 111.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about John's house and planks of wood, but then asks about Ed and Doug's marbles.  \n\nThere's not enough information to figure out how many marbles Ed and Doug have. \n\nLet me know if you'd like to try a different problem! \ud83d\ude0a \n\n",
+        "answer": 9.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! Here's why:\n\n* **The information about Dave's tickets and purchases doesn't relate to harvesting oranges.**  \n\nTo figure out how long it takes to harvest oranges, we need information about:\n\n* **How many oranges are in a sack.**\n* **How many oranges can be harvested per day.** \n\n\nLet me know if you have that information, and I can help you calculate the number of days! \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about strawberries, but then asks about action figures.  \n\nThere's not enough information to figure out how many action figures Marco had. \n\nLet me know if you'd like to try a different word problem! \ud83c\udf53\ud83e\uddf8 \n\n",
+        "answer": 15.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many sets of tables the machine has. Here's why:\n\n* **Shirt production and tables are unrelated:** The number of shirts the machine makes doesn't tell us anything about the number of tables it might be used to make. \n\nLet me know if you have a different question about the machine or its production! \n\n",
+        "answer": 3.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how much Edward spent.  \n\nHere's why:\n\n* **We don't know the price of each peach.** Peaches can cost different amounts depending on their type, size, and where they're bought. \n\nTo solve this, we'd need to know the price per peach for each color. \n\n",
+        "answer": 10.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Gwen's birthday money but then asks about John and nails.  \n\nThere's not enough information to figure out how many nails John needs. \n\nLet me know if you'd like to solve a problem about Gwen's money! \ud83d\ude0a \n\n",
+        "answer": 20.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! Here's how to figure out what we *can* find:\n\n**1. Find the daily earnings:**\n\n* The ring toss game earned $420 in 30 days.\n* To find the daily earnings, divide the total earnings by the number of days: $420 / 30 days = $14 per day.\n\n**2.  The extra information:**\n\n* The fact that they earned $22 \"together with the game\" doesn't tell us anything about how many buses are needed for a trip. We need more information about the buses and the trip! \n\n\nLet me know if you have another problem to solve! \n\n",
+        "answer": 737.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a bit of a trick question! \n\nThe information about apps and files doesn't tell us anything about goldfish.  There's no way to know how many goldfish Dave has. \ud83d\udc1f \n\n\nLet me know if you'd like to try a different math problem! \n\n",
+        "answer": 10.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some tricky wording! It talks about cookies, but then asks about cakes.  \n\nLet's focus on what we *can* figure out:\n\n* **Cookies Paco had:** 39 sweet + 6 salty = 45 cookies\n* **Cookies Paco ate:** 23 salty + 32 sweet = 55 cookies\n\nIt seems like there's a mistake in the problem because Paco can't eat more cookies than he started with! \n\n\nLet me know if you'd like to try a different cookie problem! \ud83c\udf6a \n\n",
+        "answer": 184.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many more girls than boys are at the school. \n\nHere's why:\n\n* **We only know about Julia's games:** We don't know if all the kids in the games were girls, boys, or a mix of both.\n* **School size is unknown:** The problem only tells us about Julia's games, not the total number of students at the school. \n\n\nLet me know if you have a different problem! \n\n",
+        "answer": 298.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This is a bit of a trick question! \n\nThe information about Kelly's games doesn't tell us anything about how many tomatoes and potatoes he has.  \n\nTo figure that out, we'd need more information. \ud83c\udf45\ud83e\udd54 \n\n",
+        "answer": 80.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky!  \n\nThe information about Nell's baseball cards doesn't tell us anything about her weight or how much she weighs after jogging. \n\nTo figure out her weight, we'd need more information, like:\n\n* **Her starting weight:** How much did she weigh before she started jogging?\n* **How much weight she lost (or gained):** Did she lose weight during the first week of jogging? \n\n\nLet me know if you have that information, and I can help you calculate her weight! \n\n",
+        "answer": 36.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how much money Rachel earns during harvest season. \n\nThe problem only tells us about Rachel's homework. To find out how much money she earns, we would need information about:\n\n* **Does Rachel have a job during harvest season?**\n* **How much does she get paid per hour or per task?** \n\n\nLet me know if you have more information about Rachel's job! \n\n",
+        "answer": 93899.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us enough information to figure out how many more girls than boys are at the school. \n\nHere's why:\n\n* **We only know about rowing:** The numbers tell us how many campers went rowing at different times, but not their genders.\n* **No gender information:**  We don't know how many of the campers are girls and how many are boys. \n\n\nLet me know if you have a different problem! \n\n",
+        "answer": 333.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem has some extra information that doesn't help us solve it! Here's how to figure out the answer:\n\n* **Start with the initial amount:** Josh had 4 marbles.\n* **Subtract the lost marbles:** 4 - 16 = -12 (This means he's down to negative marbles, which isn't possible in real life!)\n* **Add the found marbles:** -12 + 8 = -4\n\nIt seems like there's an error in the problem. You can't have negative marbles. \n\n\nLet me know if you'd like to try a different word problem! \n\n",
+        "answer": 26.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It gives us information about Danny's bottle caps and wrappers, but then asks about pizza slices.  \n\nThere's not enough information to figure out how many pizza slices there are or how many people there are to share them. \n\nLet me know if you'd like to try a different problem! \ud83c\udf55 \n\n",
+        "answer": 45.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't mention anything about books! It only talks about files and apps. \n\nHere's what we can figure out from the information given:\n\n* **Apps:** Dave deleted 15 - 12 = 3 apps.\n* **Files:** Dave deleted 59 - 30 = 29 files. \n\n\nLet me know if you have another question! \n\n",
+        "answer": 45.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us information about cookies! It only tells us about balloons and balls.  \n\nTo figure out how many more cookies someone ate than they bought, we'd need to know:\n\n* **How many cookies they bought.**\n* **How many cookies they ate.** \n\n\nLet me know if you want to try a different problem! \n\n",
+        "answer": 2.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem can't be solved. Here's why:\n\n* **We don't know how many marbles Ed or Doug have.** The information about the $104 is irrelevant to the question about marbles. \n\nTo solve this, you'd need to know the number of marbles each person has. \n\n",
+        "answer": 12.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us information about marbles. It only tells us about Kelly's Nintendo and Sony games.  \n\nTo solve a problem about marbles, we would need information about how many marbles Kelly found and how many he lost. \n\n",
+        "answer": 14.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem doesn't give us any information about Julia's hair length! \n\nIt only tells us about how many kids she played tag with.  We can't figure out how long her hair is from this information. \n\n",
+        "answer": 17.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem is a bit tricky! It tells us about Tiffany collecting cans, but then asks about crayons.  \n\nThere's not enough information to know how many crayons were lost or given away. \n\nLet me know if you'd like to solve a different problem about Tiffany's cans! \ud83d\ude0a \n\n",
+        "answer": 587.0,
+        "eval_result": 0
+    },
+    {
+        "model_answer": "This problem seems to have some unrelated information! \n\nHere's why we can't answer the question:\n\n* **Skittles and Erasers:** The information about Steven's skittles and erasers doesn't help us figure out how much sugar or salt he needs.\n* **Missing Information:** The problem doesn't tell us how much sugar or salt Steven needs to add, or how many cups he already has.\n\n\nLet me know if you have a different question about Steven's skittles or erasers, or if you want to provide more information about the sugar and salt! \n\n",
+        "answer": 1.0,
+        "eval_result": 0
+    }
+]

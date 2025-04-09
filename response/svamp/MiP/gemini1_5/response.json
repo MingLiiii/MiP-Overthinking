@@ -1,0 +1,1802 @@
+[
+    {
+        "insufficient_question": "Dan had $ 3 left with him after he bought a candy bar. If he had $ 4 at the start How many bottle caps did danny have at first?",
+        "answer": 91.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many *bottle caps* Dan had at first, but the provided information only discusses his money.  There's no information about bottle caps.  The answer is unknown.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paco had 26 salty cookies and 17 sweet cookies. He ate 14 sweet cookies and 9 salty cookies. How many pencils does she have?",
+        "answer": 84.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about cookies, but asks about pencils.  Paco has an unknown number of pencils.  The information about cookies is irrelevant.  Therefore, we cannot answer how many pencils Paco has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "28 children were riding on the bus. At the bus stop 82 children got on the bus while some got off the bus. Then there were 30 children altogether on the bus. How many more wrappers than bottle caps did danny find at the park?",
+        "answer": 60.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about children getting on and off a bus, but this is irrelevant to the question about how many more wrappers than bottle caps Danny found.  There's no information provided about the number of wrappers or bottle caps Danny found.  Therefore, the question cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were 3 dollars in Olivia's wallet. She collected 49 more dollars from an atm. After she visited a supermarket there were 49 dollars left. How much money did they make?",
+        "answer": 3168.0,
+        "gemini-1.5-flash (insufficient_question)": "Olivia started with $3, then got $49 more, making a total of $3 + $49 = $52.  She spent $52 - $49 = $3 at the supermarket.\n\nThe question asks how much *money she made*.  She made **$49**.\n",
+        "eval_result": 1
+    },
+    {
+        "insufficient_question": "Mary is baking a cake. The recipe calls for 3 cups of sugar 10 cups of flour and 15 cups of salt. She already put in 6 cups of flour. How many buses are needed to take the trip?",
+        "answer": 37.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains irrelevant information.  The question about buses is unrelated to the cake recipe.  There's no way to answer how many buses are needed based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A waiter had some customers. After 9 customers left he still had 12 customers. How many bird families were left near the mountain?",
+        "answer": 27.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of bird families near the mountain is completely unrelated to the number of customers in the restaurant.  There's no way to answer how many bird families were left near the mountain based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "3 birds were sitting on the fence. 6 more storks and 2 more birds came to join them. How many cookies did Helen bake till last night?",
+        "answer": 450.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of birds and storks is irrelevant to how many cookies Helen baked.  There's no way to answer how many cookies Helen baked from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "In a school there are 458 more girls than boys. If there are 692 girls How many peaches are in the basket?",
+        "answer": 30.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of peaches in the basket is unrelated to the number of boys and girls in the school.  There's not enough information to answer how many peaches are in the basket.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "After resting they decided to go for a swim. The depth of the water is 15 times Dean's height. Dean is 4 feet taller than Ron. If Ron stands at 13 feet How many crayons did he get for his birthday?",
+        "answer": 728.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  The information about the water depth and Dean's and Ron's heights is not needed to answer how many crayons Ron received for his birthday.  There's no way to determine how many crayons Ron got from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "6 birds were sitting on the fence. 4 more birds and 8 more storks came to join them. How many more bottles of diet soda than regular soda did they have?",
+        "answer": 39.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the birds and storks is a distraction.  There's no information given about soda.  Therefore, it's impossible to answer how many more bottles of diet soda than regular soda they had.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 36 pounds. On the way back Marco ' dad lost 8 pounds of strawberries. Marco's strawberries now weighed 12 pounds. How many wrappers did danny have at first?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra information that is not needed to solve it.  The question asks about \"Danny\" who is not mentioned in the strawberry picking story.  There's no way to answer how many wrappers Danny had.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "In a school there are 697 girls and the rest are boys. If there are 228 more girls than boys How many balloons did Jake bring to the park?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about the number of girls and the difference between the number of girls and boys in a school.  It does *not* provide any information about Jake or how many balloons he brought to the park.  Therefore, it's impossible to answer how many balloons Jake brought.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "In a school there are 732 girls and 761 boys. 682 more girls and 8 more boys joined the school. How many push-ups did Zachary and David do altogether?",
+        "answer": 53.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of girls and boys joining the school is a distraction.  There's no information provided about how many push-ups Zachary and David did.  Therefore, it's impossible to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Danny collects bottle caps and wrappers. He found 22 bottle caps and 30 wrappers at the park. Now he has 17 bottle caps and 57 wrappers in his collection. How many more kids spent their summer break at the camp compared to those who stayed home?",
+        "answer": 150780.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about Danny's bottle caps and wrappers, but this information is irrelevant to the question about kids at a summer camp.  There's no way to answer how many more kids were at camp compared to those staying home based on the given data.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Baker made 121 cakes. He sold 105 of them and bought 170 new cakes. How many more visitors visited the Buckingham palace on that day than on the previous day?",
+        "answer": 22.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of cakes is irrelevant to the number of visitors at Buckingham Palace.  There's no information provided to answer the question about Buckingham Palace visitors.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The bananas in Philip's collection are organized into groups of size 18. If there are a total of 180 bananas in Philip's banana collection How much will it cost to buy 33 packs of dvds?",
+        "answer": 2673.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of bananas and the number of DVD packs are unrelated.  The problem gives us information about bananas to distract us.  We need more information to determine the cost of the DVDs.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were some birds sitting on the fence. 4 more birds came to join them. If there are a total of 5 birds on the fence now How many more movies than books are there in the ' crazy silly school ' series?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The information about the birds is irrelevant to the question about the \"crazy silly school\" series.  There's no information provided about the number of movies or books in that series, so it's impossible to answer how many more movies there are than books.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jerry had 3 action figures on a shelf in his room. Later he added 4 more action figures to the shelf and removed some of the old ones. If there are 6 action figures on his shelf now How many baskets of peaches are there?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a bit of a trick question!  The information about the action figures is irrelevant to the number of baskets of peaches.  There is no information given about peaches.  Therefore, we cannot determine how many baskets of peaches there are.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Because of the decision Sofia asked the students to suggest specific types of food from a total of 66 choices. If 450 students suggested adding mashed potatoes 38 suggested adding bacon to the menu and the rest did not participate How many more bags did she find on the next day than she had on monday?",
+        "answer": 5.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives irrelevant information.  The number of students who suggested food items and the total number of choices are not needed to answer the question about how many more bags Sofia found on the next day than she had on Monday.  The question cannot be answered because there's no information about the number of bags Sofia had on Monday or the number she found the next day.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A grocery store had 49 bottles of regular soda, 40 bottles of diet soda and 6 bottles of lite soda. How much money did he spend to buy chocolate than he did to buy candy bar?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about soda bottles but asks a question about the cost of chocolate and candy bars.  There's no information provided about the cost of chocolate or candy bars. Therefore, it's impossible to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Dan has $ 3. He bought 2 candy bar for $ 4, each one costing the same amount of money. How many pizzas did we order?",
+        "answer": 14.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem doesn't mention pizzas.  The question about how many pizzas were ordered can't be answered from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were 15 roses and 62 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 17 roses and 96 orchids in the vase. How many minutes did the machine work yesterday?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  The number of roses and orchids added to the vase is unrelated to how long a machine worked yesterday.  There's no way to answer the question about the machine's working time based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were 78 dollars in Olivia's wallet. She spent 15 dollars at a supermarket. How much does she weigh now?",
+        "answer": 4.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  Spending money doesn't change a person's weight.  Olivia still weighs whatever she weighed before going to the supermarket.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jack received 6 emails in the morning, 3 emails in the afternoon and some more in the evening. If he received a total of 10 emails in the day How many friends did he give crackers to?",
+        "answer": 6.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of emails Jack received is unrelated to the number of friends he gave crackers to.  The question about crackers is a distraction.  There's no way to answer how many friends he gave crackers to based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Dan has $ 4. He bought a candy bar for $ 8. Then his friend have him $ 5 How many crackers and cakes did each person eat?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem doesn't provide any information about crackers or cakes.  We only know about Dan's money and a candy bar transaction.  Therefore, it's impossible to answer how many crackers and cakes each person ate.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "After eating a hearty meal they went to see the Buckingham palace. There, Rachel learned that 703 visitors came to the Buckingham palace on the previous day. If there were 246 visitors on that day How many pencils does she have?",
+        "answer": 720.0,
+        "gemini-1.5-flash (insufficient_question)": "The information about the number of visitors to Buckingham Palace is irrelevant to the question of how many pencils Rachel has.  There's no information provided about how many pencils she possesses.\nThe answer is: **We don't know.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "For Gwen's birthday she received 5 dollars from her dad. Her mom gave her 7 more dollars. If she spent 4 dollars. How many more bird families flew away for the winter than those that stayed behind?",
+        "answer": 127.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  The question about bird families is unrelated to the information about Gwen's money.  There's no way to answer how many more bird families flew away based on the given facts.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 142 bananas and 356 oranges in Philip's collection. If the bananas are organized into 47 groups and oranges are organized into 178 groups How many bottle caps did he find at the park?",
+        "answer": 7.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about bananas and oranges but asks about bottle caps.  There's no connection between the number of fruits and the number of bottle caps.  Therefore, it's impossible to answer how many bottle caps Philip found.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 8 different books and 5 different movies in the ' crazy silly school ' series. If you read 19 of the movies and watched 16 of the books How much money did he spend buying the candy bar and chocolate?",
+        "answer": 13.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides irrelevant information.  The number of books read, movies watched, and the number of books and movies available are not related to how much money was spent on candy and chocolate.  There's no way to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Mary is baking a cake. The recipe calls for 12 cups of flour and 5 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour How many white t - shirts does each package have?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of white t-shirts in a package is unrelated to the cake recipe.  The cake problem tells us Mary needs 2 more cups of flour, meaning she has already put in 12 - 2 = 10 cups of flour.  There is no information about t-shirts.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Danny collects bottle caps and wrappers. He found 46 wrappers and 50 bottle caps at the park. Now he has 21 bottle caps and 52 wrappers in his collection. How many apples does Jackie have?",
+        "answer": 6.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about Danny's bottle caps and wrappers but asks about Jackie's apples.  There's no connection between the two.  Therefore, we **cannot** determine how many apples Jackie has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Luke played 177 rounds of a trivia game. If he gained 46 points in each round How many sweet cookies did Paco have left?",
+        "answer": 7.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of sweet cookies Paco had left is not related to the information given about Luke's trivia game.  The question is unanswerable.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "3 birds and 4 storks were sitting on the fence. 2 more birds came to join them. How many more children were on the bus before the bus stop than there are now?",
+        "answer": 23.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a bit of a trick question!  The problem gives information about birds and storks but asks about children on a bus. There's no information about children on a bus, so we cannot answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Zachary did 35 push-ups and 3 crunches in gym class today. David did 58 more push-ups but 87 less crunches than zachary. How many more cookies did he buy than those he ate?",
+        "answer": 34.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about push-ups and crunches but asks a completely unrelated question about cookies.  There's no way to answer how many more cookies David bought than he ate based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jerry had 7 action figures on a shelf in his room. Later he added some more action figures to the shelf and removed 10 of the old ones. If there are 8 action figures on his shelf now How many pieces of candy had he eaten at the start?",
+        "answer": 9.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The question about how many pieces of candy Jerry ate is irrelevant. The question is about action figures.\n\nHere's how to solve the action figure part:\n\n* **Started with:** 7 action figures\n* **Removed:** 10 action figures.  Since he only had 7, this means he removed all 7 and then 3 more from another source (possibly a different collection or location.)\n* **Ended with:** 8 action figures\n\nThe number of action figures added is not directly stated and would depend on what other figures he had available. The problem only asks about the number of action figures on the shelf.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Nell collects cards. She had 309 baseball cards and 356 Ace cards. She gave some of her cards to Jeff and now has 415 baseball cards and Ace cards left. How many marbles does he have now?",
+        "answer": 30.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states that Nell had 309 baseball cards and 356 Ace cards, for a total of 309 + 356 = 665 cards.  After giving some away, she has 415 cards left.\n\nThe question asks how many *marbles* Jeff has.  The problem gives no information about Jeff's marbles.  Therefore, we cannot answer how many marbles Jeff has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "At the zoo, a cage had 93 snakes and 97 alligators. If 40 alligators were hiding How many planks does John need for the house wall?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of snakes and alligators, and how many alligators are hiding, is irrelevant to how many planks John needs for his house wall.  There's no way to answer how many planks John needs based on the information given.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "You have read 8 books from the ' crazy silly school ' series. If there are a total of 14 different books in the ' crazy silly school ' series How many tomatoes and potatoes does he have left?",
+        "answer": 136.0,
+        "gemini-1.5-flash (insufficient_question)": "This question contains a trick!  The number of books read is irrelevant to the number of tomatoes and potatoes.  There's no information about tomatoes and potatoes in the problem.  The answer is: **There is not enough information to answer.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Emily is making bead necklaces for her 43 friends. She had 20 beads and she was able to make 5 necklaces. How many action figures did he have initially on the shelf?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra information.  The question asks about action figures, but the problem describes making necklaces with beads.  There is no information given about action figures.  The answer is **cannot be determined**.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Frank put 11 pieces of candy in each bag. If he had 22 pieces of candy How big is each group of oranges?",
+        "answer": 24.0,
+        "gemini-1.5-flash (insufficient_question)": "The question contains a mismatch.  It talks about candy and then asks about oranges.  There's no information about oranges.  We can only answer how many bags of candy Frank made:\n\nFrank made 22 pieces of candy / 11 pieces per bag = 2 bags of candy\n",
+        "eval_result": 1
+    },
+    {
+        "insufficient_question": "A waiter had 12 customers. After some left he still had 14 customers. Then he got 10 new customers How many more movies do you still have to watch?",
+        "answer": 10.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  It mixes up unrelated information. The number of customers the waiter has is irrelevant to how many movies you have to watch.  There's no information given about how many movies you have to watch.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A farmer had 90 tomatoes in his garden. If he picked 154 of them yesterday and 50 today. How many peaches does Jill have?",
+        "answer": 5.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a bit of a trick question!  The problem gives information about tomatoes but asks about peaches.  There's no information about how many peaches Jill has, so the answer is: **We don't know.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "5 red peaches, 14 yellow peaches and 6 green peaches are in the basket. How many students suggested bacon?",
+        "answer": 348.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of peaches in the basket has no relation to the number of students who suggested bacon.  The question is unanswerable.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were 9 roses and 6 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 13 orchids and 3 roses in the vase. How many boys did she give the marbles to?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem includes extra, irrelevant information.  The question about how many boys Jessica gave marbles to is unrelated to the information about the roses and orchids.  The answer is that the problem doesn't provide enough information to answer that question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Emily is making bead necklaces for her 72 friends. She has 6 beads and each necklace takes 3 beads. How much did his dad's strawberries weigh now?",
+        "answer": 16.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about Emily's necklaces and the weight of her dad's strawberries are unrelated.  We can solve the necklace problem:\n\nEmily has 6 beads / 3 beads/necklace = 2 necklaces.\n\nShe can only make 2 necklaces, not enough for her 72 friends.  The weight of her dad's strawberries is not provided and cannot be determined.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "He also had 26 aquariums for saltwater animals. The aquarium had 52 saltwater animals in total and every aquarium had the same number of animals. How many green peaches are in each basket?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of green peaches in each basket is unrelated to the information provided about the saltwater aquariums.  There's no information given about peaches or baskets.  The answer is that we cannot determine the number of green peaches in each basket from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Mary is baking a cake. The recipe calls for 11 cups of flour and 7 cups of sugar. She already put in some cups of flour. If she still needs 2 more cups of flour than sugar How many buses are needed to take the trip?",
+        "answer": 29.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem has extra information.  The question about buses is irrelevant.\n\nHere's how to solve the flour/sugar part:\n\n* **Total flour needed:** 11 cups\n* **Flour already added:**  Let's say she added 'x' cups.\n* **Flour still needed:** 11 - x cups\n* **Sugar needed:** 7 cups\n* **Flour needed - sugar needed = 2:** (11 - x) - 7 = 2\n\nSolving for x:\n\n11 - x - 7 = 2\n4 - x = 2\nx = 2\n\nMary already added $\\boxed{2}$ cups of flour.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Baker made 149 cakes and 91 pastries. If he sold 10 cakes and 90 pastries How many more cups of flour does she need to add?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem doesn't give us information about how much flour is needed for each cake or pastry.  Therefore, we cannot determine how many more cups of flour the baker needs.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "An industrial machine made 9 shirts yesterday and 8 shirts today. It can make 2 shirts a minute. How much farther did the mouse jump than the grasshopper?",
+        "answer": 28.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem includes extra information that is not needed to solve a problem.  The information about the shirts and the machine is irrelevant. There is no information about a mouse or a grasshopper, so the question cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Matthew had some crackers. If Matthew gave 2 crackers to each of his 11 friends How many more movies do you still have to watch?",
+        "answer": 4.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains two unrelated parts.  The first part asks about crackers, the second asks about movies. There's no way to answer the second part (\"How many more movies do you still have to watch?\") without additional information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Because of the decision Sofia asked the students to suggest specific types of food. If 218 students suggested adding mashed potatoes as well as bacon while 351 suggested adding only bacon to the menu How deep was the water?",
+        "answer": 81.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the depth of the water is a trick!  The information about students suggesting food items is irrelevant to the depth of the water.  There's no way to answer how deep the water was based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "If each bag has 41 cookies and you had 53 bags of cookies How many more kids did she play with on monday than on tuesday?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of cookies is irrelevant to the number of kids she played with on Monday versus Tuesday.  The question cannot be answered from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Rachel had to complete 2 pages of reading homework and 4 pages of math homework. How many days would the soda bottles last?",
+        "answer": 64.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states how much homework Rachel has, but provides no information about soda bottles.  Therefore, it's impossible to answer how long the soda bottles would last.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Allan brought 5 balloons and Jake brought 4 balloons to the park. Allan then bought 3 more balloons at the park. How many books have you already read?",
+        "answer": 15.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The problem gives information about balloons, but asks how many books *I* have read.  There's no information about that.  I haven't read any books (or at least, I don't have any memory of books I've read as a large language model).\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Julia played tag with 8 kids on monday, 11 kids on tuesday and 9 kids on wednesday. How many more students suggested bacon than those that suggested tomatoes?",
+        "answer": 314.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives the number of kids Julia played tag with on three days.  It doesn't provide any information about students suggesting bacon or tomatoes.  Therefore, we cannot answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The Razorback shop makes $ 5 dollars off each jersey and $ 215 off each t-shirt. During the Arkansas and Texas tech game they sold 20 t-shirts and 64 jerseys. How big is each group?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem already tells us the size of each group:\n\n* **Jerseys:** 64\n* **T-shirts:** 20\n\nThe information about how much money they make per item is extra information not needed to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Tiffany was collecting cans for recycling. On monday she had 4 bags of cans. The next day she found some more bags worth of cans. If she had a total of 6 bags altogether How many more chairs than tables do they have?",
+        "answer": 117.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many more *chairs* than *tables* Tiffany has, but the problem only discusses bags of cans.  There's no information about chairs or tables.  The answer is therefore impossible to determine from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "In a school there are 632 girls and 410 boys. 465 more girls joined the school. How many children are on the bus now?",
+        "answer": 64.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is a bit of a trick!  It asks how many children are *on the bus*, but the problem only gives information about the number of children at the school.  There's no information about how many children are on a bus.\n\nThe number of children at the school is now 632 + 465 + 410 = 1507.  But this doesn't answer the question about the number of children on the bus.  The answer is **unknown**.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Emily is making bead necklaces for her friends where each necklace takes 5 beads. She made 4 necklaces. How many action figures were on his shelf in all?",
+        "answer": 7.0,
+        "gemini-1.5-flash (insufficient_question)": "The question contains a mistake. It asks about action figures, but the problem describes Emily making bead necklaces.  The question about action figures is irrelevant.\n\nTo answer the question about the necklaces, Emily used 5 beads/necklace * 4 necklaces = 20 beads.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Randy has 95 blocks. He uses 20 blocks to build a house and 50 blocks to build a tower. How many more sacks of unripe oranges than ripe oranges are harvested per day?",
+        "answer": 69.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about blocks but asks a completely unrelated question about oranges.  There's no way to answer how many more sacks of unripe oranges than ripe oranges are harvested based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "2 birds and 6 storks were sitting on the fence. 3 more birds came to join them. How far did the mouse jump?",
+        "answer": 39.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The problem gives information about birds and storks, but asks about a mouse. There's no way to know how far the mouse jumped based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paco had 12 cookies. He ate 16 cookies and gave 21 of them to his friend. How many hours does he spend on learning english and chinese in all?",
+        "answer": 63.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra, irrelevant information.  The number of cookies Paco had, ate, and gave away has nothing to do with how many hours he spends learning English and Chinese.  There's no way to answer the question about the hours spent studying from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Josh had 3 marbles in his collection. He found 6 marbles while he lost 5 marbles. How many marbles did Doug lose?",
+        "answer": 17.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem only tells us about Josh's marbles, not Doug's.  We don't know how many marbles Doug lost.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Because of the decision Sofia asked the students to suggest specific types of food. If 408 students suggested adding mashed potatoes while 42 suggested adding bacon to the menu How many bags of cans did she have altogether?",
+        "answer": 10.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states how many students suggested mashed potatoes and bacon, but it doesn't give any information about bags of cans.  Therefore, we cannot answer how many bags of cans Sofia had.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paco had 40 cookies. He ate 5 cookies and gave 13 of them to his friend. How many will he have left after today?",
+        "answer": 7.0,
+        "gemini-1.5-flash (insufficient_question)": "Here's how to solve the problem step-by-step:\n\n1. **Cookies eaten:** Paco ate 5 cookies.\n2. **Cookies given away:** Paco gave away 13 cookies.\n3. **Total cookies gone:** Paco gave away a total of 5 + 13 = 18 cookies.\n4. **Cookies remaining:** Paco started with 40 cookies and gave away 18, leaving him with 40 - 18 = 22 cookies.\n\nPaco will have $\\boxed{22}$ cookies left.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 19 inches. The frog jumped 10 inches farther than the grasshopper and the mouse jumped 20 inches farther than the frog. How many games did she play?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of games played is irrelevant to the information given about the jumping contest.  Let's focus on the jumping distances:\n\n* **Grasshopper:** 19 inches\n* **Frog:** 19 inches + 10 inches = 29 inches\n* **Mouse:** 29 inches + 20 inches = 49 inches\n\nThe question about how many games *she* played cannot be answered from the provided text.  There is no information about games played.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Frank was reading through his favorite book. It took him 16 days to finish the book. If the book had 112 pages How many more children got off the bus than those that got on?",
+        "answer": 24.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The information about Frank reading his book is irrelevant to the number of children getting on and off a bus.  There's no way to answer how many more children got off than on without additional information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Allan brought 3 balloons and Jake brought 5 balloons to the park. Allan then bought 2 more balloons at the park. How many bags of cookies do you have?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is a bit of a trick!  The number of balloons doesn't tell us anything about how many bags of cookies you have.  There is no information about cookies in the problem.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Josh lost 11 marbles. If he had 19 marbles in his collection earlier How many grams of wax does he already have?",
+        "answer": 28.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives us information about the number of marbles Josh had and lost, but it doesn't tell us anything about wax.  Therefore, we cannot answer how many grams of wax Josh has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Allan brought 6 balloons and Jake brought 3 balloons to the park. Jake then bought 4 more balloons at the park. How many balloons did Jake bring to the park?",
+        "answer": 9.0,
+        "gemini-1.5-flash (insufficient_question)": "Jake brought 3 balloons to the park.  The fact that he bought more later doesn't change how many he initially brought.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 6 baskets of peaches. Each basket has 16 red peaches and 18 green peaches. How much farther until they reach the end of the cave?",
+        "answer": 369.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains irrelevant information.  The number of peach baskets and the number of peaches in each basket has nothing to do with the distance to the end of a cave.  There's no way to answer how much farther until they reach the end of the cave based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "During summer break 800059 kids from Lawrence county go to camp and the rest stay home. Lawrence county has 828521 kids in all. How many apples does Jake have?",
+        "answer": 11.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about how many apples Jake has is a trick!  The information about the kids going to camp and staying home is irrelevant.  There's no way to determine how many apples Jake has from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 141 pots. Each pot has 71 flowers and 91 sticks in it. How many shirts did machine make altogether?",
+        "answer": 156.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  The number of pots, flowers, and sticks is not related to the number of shirts a machine made.  There's no way to answer how many shirts the machine made based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A chef had 58 apples. After making some pies, he had used 35. How many balloons did Allan and Jake have in the park?",
+        "answer": 8.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of apples the chef used has no bearing on how many balloons Allan and Jake have.  There's not enough information to answer how many balloons they have.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "You had 26 bags with equal number of cookies. If you had 15 candies and 52 cookies in total How many more kids did she play with on monday than on tuesday?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem has a bit of a trick!  The information about cookies and candies is irrelevant to the question of how many more kids she played with on Monday than Tuesday.  The problem doesn't provide any information about the number of kids she played with on either day.  Therefore, we **cannot answer** the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "He then went to see the oranges being harvested. He found out that they harvest 38 sacks per day and that each sack containes 42 oranges. How many days will it take to harvest 80 sacks of oranges?",
+        "answer": 5.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many days it takes to harvest 80 sacks, given they harvest 38 sacks per day.\n\nTo find this, we divide the total number of sacks needed (80) by the number of sacks harvested per day (38):\n\n80 sacks / 38 sacks/day \u2248 2.1 days\n\nSince you can't have a fraction of a day, it will take them **3 days** to harvest at least 80 sacks of oranges.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jack received 10 emails in the morning, 5 emails in the afternoon and 4 emails in the evening. How many more peaches than apples does Steven have?",
+        "answer": 7.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about Jack's emails is a distraction.  There's no information given about Steven's fruit.  Therefore, it's impossible to answer how many more peaches than apples Steven has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A farmer had 160 tomatoes in his garden. If he picked 56 of them yesterday and 41 today. How many kids stay home?",
+        "answer": 268627.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a bit of a trick question!  The number of tomatoes picked has nothing to do with how many kids stay home.  There's no way to answer how many kids stay home from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Each pot has 40 flowers in it. There are 400 flowers in total. How many students suggested bacon?",
+        "answer": 125.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a trick!  The information about the pots and flowers is irrelevant. There's no information given about students suggesting bacon.  The answer is: **We don't know.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Because of the decision Sofia asked the students to suggest specific types of food. If 479 students suggested adding mashed potatoes while 489 suggested adding bacon to the menu How many emails did Jack receive in the afternoon and evening?",
+        "answer": 13.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides irrelevant information.  The number of students suggesting mashed potatoes or bacon is unrelated to the number of emails Jack received.  There's no way to answer how many emails Jack received.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Ed had 5 more marbles than Doug. Doug lost 3 of his marbles at the playground. If Ed had 27 marbles How many bird families flew away for the winter?",
+        "answer": 118.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of marbles Ed and Doug have is irrelevant to the number of bird families that flew away for the winter.  There's no information connecting those two things.  The answer is unknown.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Rachel had to complete 7 pages of math homework. If she had to complete 4 more pages of math homework than reading homework How many necklaces can Emily make?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains two unrelated parts.  We can solve the math homework part:\n\nRachel had 7 pages of math homework and 3 pages of reading homework (7-4=3).\n\nHowever, there's no information about Emily or necklaces, so we cannot determine how many necklaces Emily can make.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 19 chocolate chip cookies yesterday and 231 raisin cookies and 237 chocolate chip cookies this morning. How many people can each seat hold?",
+        "answer": 5.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about the number of cookies Helen baked, but it doesn't give any information about the number of seats or people attending the Thanksgiving dinner.  Therefore, it's impossible to answer how many people each seat can hold.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Tiffany was collecting cans for recycling. On monday she had some bags of cans. The next day she found 4 more bags worth of cans. If she had a total of 8 bags altogether How many days would they last her?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The question asks how many *days* the cans would last, but only gives information about the number of bags.  There's no information about how long she uses the cans each day.\n\nTherefore, we can't answer how many days the cans would last her.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Mary is baking a cake. The recipe calls for 12 cups of sugar and 14 cups of flour. She already put in 10 cups of sugar. How many did each of them have?",
+        "answer": 7.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many cups of sugar and flour Mary *had* initially, not how many she still needs or has used.  The problem only tells us she has *put in* 10 cups of sugar.  We don't know how much sugar or flour she started with.  Therefore, we can't answer how much of each she had.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Kelly has 22 nintendo games. How many cards does Jeff have now?",
+        "answer": 265.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem only tells us about Kelly's games.  There's no information about Jeff, so we cannot determine how many cards Jeff has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Mom buys 70 white t - shirts in total. If white t - shirts can be purchased in packages and mom buys 14 packages How many more eggs does Rebecca have than marbles?",
+        "answer": 7.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides irrelevant information about t-shirts and packages.  There's no information about Rebecca, eggs, or marbles.  Therefore, it's impossible to answer how many more eggs Rebecca has than marbles.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Mary is baking a cake. The recipe calls for 6 cups of sugar and 14 cups of flour. She already put in 7 cups of flour and 60 cups of sugar. How many cookies did Paco have left?",
+        "answer": 12.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra, irrelevant information.  The question asks how many cookies Paco had left, but the information given is about Mary baking a cake.  There's no information about Paco or his cookies.  The answer is **impossible to determine** from the given text.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were 7 roses and 12 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 11 roses and 20 orchids in the vase. How many pencils does she have?",
+        "answer": 154.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is a trick!  The problem gives information about roses and orchids, but asks how many pencils Jessica has.  There's no information about pencils, so the answer is unknown.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "22 children were riding on the bus. At the bus stop 40 children got on the bus while some got off the bus. Then there were 2 children altogether on the bus. How many emails did Jack receive in the afternoon?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of children getting on and off the bus is irrelevant to the number of emails Jack received.  There's no information provided about Jack's emails. The answer is: **There is not enough information to answer how many emails Jack received.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 10 different books and 11 different movies in the ' crazy silly school ' series. If you read 13 of the books and watched 12 of the movies How many apps did he add?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is a bit of a trick!  It's asking about apps, but gives information about books and movies.  There's no information about apps being added, so the answer is $\\boxed{0}$\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Emily is making bead necklaces for her friends. She made 11 necklaces and each necklace takes 28 beads. How many peaches does Jake have?",
+        "answer": 9.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about Emily making necklaces and the number of beads used.  It asks how many peaches Jake has.  There is no connection between Emily's necklaces and Jake's peaches.  Therefore, we cannot answer how many peaches Jake has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Last week Fred had 111 dollars and Jason had 40 dollars. Fred washed cars over the weekend and now has 115 dollars. Jason delivered newspapers and now has 44 dollars. How many apples were there on all trees initially?",
+        "answer": 33.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem is a trick question!  The information about Fred and Jason's money is irrelevant. There's no information provided about the number of apples.  The answer is: **There is not enough information to determine the number of apples.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A mailman has to give 9 pieces of junk mail to each house in each block. If there are 20 houses on a block How many emails did Jack receive in the morning and evening?",
+        "answer": 11.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem only states how many pieces of junk mail each house receives, not how many the mailman delivers in total.  We don't know how many blocks the mailman covers, so we can't determine the total number of emails delivered.\n\nWe also don't know if Jack received any mail at all. The problem focuses on the general distribution of junk mail.  Therefore, we cannot answer how many emails Jack received.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Matthew gave equal numbers of crackers and cakes to his 4 friends. If he had 10 crackers and 8 cakes initially How many red and green peaches are in the basket?",
+        "answer": 22.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of red and green peaches is unrelated to the information given about Matthew's crackers and cakes.  There's no information provided about peaches.  We can only solve the cracker and cake problem:\n\nMatthew gave an equal number of crackers and cakes to each of his 4 friends.  To find that number, we take the smaller number of items he had (8 cakes) and divide it by the number of friends (4): 8 cakes / 4 friends = 2 cakes per friend.  He also gave 2 crackers per friend.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jessica cut some roses from her flower garden to put in her vase. There are now 19 roses in the vase. If there were 3 roses in the vase initially How many friends can she invite?",
+        "answer": 95.0,
+        "gemini-1.5-flash (insufficient_question)": "Jessica added 19 - 3 = 16 roses to the vase.  Without more information (like how many roses each friend gets), we can't determine how many friends she can invite.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "23 children were riding on the bus. At the bus stop 24 children got on the bus while some got off the bus. Then there were 8 children altogether on the bus. How many more pages of math homework than reading homework did she have?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  The question about math and reading homework is unrelated to the bus scenario.  There's no way to answer how many more pages of math homework than reading homework she had based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paige was helping her mom plant flowers and they put 10 seeds in each flower bed. If they planted 60 seeds altogther How many goldfish disappeared?",
+        "answer": 14.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a bit of a trick question!  The problem gives information about planting flowers but asks about goldfish.  There's no information about goldfish, so we can't answer how many disappeared.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Because of the decision Sofia asked the students to suggest specific types of food. If 257 students suggested adding mashed potatoes 120 suggested adding bacon to the menu and 97 suggested adding tomatoes How many packages will she have?",
+        "answer": 22.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is unanswerable because it doesn't specify how many food items are in each package.  We only know how many students suggested each food item, not how many packages of each would be needed.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "In a school there are 135 girls and 214 boys. 496 more girls and 910 more boys joined the school. How much money did they make from selling the t-shirts?",
+        "answer": 8265.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about the number of girls and boys in a school, and how many more joined.  However, it doesn't provide any information about t-shirt sales.  Therefore, it's impossible to answer how much money they made from selling t-shirts.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Next on his checklist is wax to stick the feathers together. He needs 159 g of wax more. If the feathers require a total of 628 g of wax How much did they make per day in the remaining 57 days at the carnival?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides unnecessary information.  The question asks how much wax they made *per day* in the remaining 57 days.  We're not told how much wax they *made* at all, only how much they *need*.  Therefore, the problem cannot be solved.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Frank was reading through his favorite book. He read 8 pages per day. If the book had 576 pages How big is each group?",
+        "answer": 57.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is a bit ambiguous.  It's asking \"How big is each group?\" but doesn't define what constitutes a \"group.\"\n\nIf the \"group\" refers to the number of pages read each day, then the answer is $\\boxed{8}$ pages.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are a total of 16 peaches in a basket. If there are 13 red peaches and some more green peaches in the basket. How many more packs of cookie did she buy over cake?",
+        "answer": 6.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is unanswerable.  The problem gives information about peaches but asks about cookies and cakes. There's no connection between the two parts of the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "After resting they decided to go for a swim. The depth of the water is 2 times Dean's height. Dean is 8 feet shorter than Ron. If Ron stands at 14 feet How many kids go to the camp during the break?",
+        "answer": 38608.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides irrelevant information.  We know the depth of the water and the heights of Dean and Ron, but this has nothing to do with the number of kids at the camp during the break.  There's no way to answer how many kids are at the camp based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 544 pots in each of the 10 gardens. Each pot has 32 flowers in it. How many cookies did Paco have left?",
+        "answer": 75.0,
+        "gemini-1.5-flash (insufficient_question)": "The question includes irrelevant information about pots and flowers.  There's no information about cookies or Paco.  Therefore, it's impossible to answer how many cookies Paco had left.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paige was helping her mom plant flowers and together they planted some seeds. They put 10 seeds in each flower bed. If there are 45 flowerbeds How much money does Edward have now?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem tells us how many seeds Paige and her mom planted, but it doesn't give us any information about Edward or his money.  Therefore, we cannot answer how much money Edward has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Marco and his dad went strawberry picking. Together their strawberries weighed 4 pounds. Marco's strawberries weighed 19 pounds. How many salty cookies did Paco have left?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains contradictory information.  It states Marco's strawberries weighed 19 pounds, which is more than the total weight of both Marco and his dad's strawberries (4 pounds).  Therefore, there's no way to answer how many salty cookies Paco had left.  The problem is flawed.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Julia played tag with 4 kids on wednesday. She had played with 6 kids on monday and 17 kids on tuesday. How many marbles does Josh have now?",
+        "answer": 18.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of kids Julia played tag with on Monday, Tuesday, and Wednesday is irrelevant to how many marbles Josh has.  There's no information given about Josh's marbles.  Therefore, it's impossible to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Carol was sending out birthday invitations to 10 friends. If each package of invitations she bought had 2 invitations in it How many more cups of flour than cups of sugar does she need to add now?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The information about the birthday invitations and packages is irrelevant to the question about flour and sugar.  There's no information given about how much flour or sugar is needed.  The answer is **0** or we cannot determine the answer.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 14 inches. The mouse jumped 16 inches lesser than the frog who jumped 37 inches farther than the grasshopper. How many more cups of sugar than cups of salt does she need to add now?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra, irrelevant information.  The question about sugar and salt is completely unrelated to the jumping contest.  We cannot answer how many more cups of sugar than salt are needed based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Faye was placing her pencils and crayons into 11 rows with 31 pencils and 27 crayons in each row. How many grams of wax does he already have?",
+        "answer": 331.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem only tells us how many pencils and crayons Faye has, not how much wax is in each.  Therefore, we cannot determine how many grams of wax Faye already has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Emily is making bead necklaces for her friends. She had 2 beads and she was able to make 32 necklaces. How many minutes was the machine working?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is missing a crucial piece of information: the rate at which the machine makes necklaces (e.g., necklaces per minute, necklaces per hour).  We can't determine the machine's working time without knowing how many necklaces it makes in a given time period.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paco had 40 sweet cookies and 25 salty cookies. He ate 28 salty cookies and 15 sweet cookies. How many books did he sell in the garage sale?",
+        "answer": 140.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains extra information.  The question about books is unrelated to the information about cookies.  There's no way to answer how many books Paco sold.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paul had 115 books. He sold 78 books in a garage sale. How many more apples does Adam have than Jackie?",
+        "answer": 8.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of books Paul had and sold is irrelevant to the question of how many more apples Adam has than Jackie.  There's no information provided to answer the second question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Danny collects bottle caps. He found 63 bottle caps at the park while he threw away 51 old ones. Now he has 33 bottle caps in his collection. How many cakes did baker make?",
+        "answer": 217.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of bottle caps Danny found at the park and the number he threw away are irrelevant to the number of cakes the baker made.  There's no information connecting these two events.  Therefore, we cannot answer how many cakes the baker made.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "During summer break 644997 kids from Lawrence county stayed home and the other 893835 kids went to camp. An additional 78 kids from outside the county attended the camp. How many peaches does Jake have?",
+        "answer": 17.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of peaches Jake has is not provided in the given information.  The problem gives information about kids attending summer camp, but this is irrelevant to the number of peaches Jake possesses.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Faye was placing 30 pencils into rows with 5 pencils in each row. How much farther until they reach the end of the cave?",
+        "answer": 103.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem only tells us about pencils.  It doesn't give us any information about a cave, so we can't answer how much farther Faye needs to go to reach the end of it.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Frank had some pieces of candy. If he put them into 26 bags with 33 pieces in each bag How many sacks of ripe oranges will they have after 73 days of harvest?",
+        "answer": 365.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  The number of candy pieces and bags is unrelated to the number of sacks of oranges after 73 days.  There's no way to answer how many sacks of oranges they will have.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A grocery store had a total of 17 bottles of which 9 were bottles of regular soda and the rest were bottles of diet soda. They also had 29 apple. How many groups will be created?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of diet soda bottles is 17 (total bottles) - 9 (regular soda bottles) = 8 bottles.\n\nThe number of apples is irrelevant to the number of groups that will be created.  There's no information provided about how the bottles or apples will be grouped.  Therefore, we cannot determine how many groups will be created.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jake has 3 fewer peaches than Steven who has 8 more peaches than Jill. Steven has 5 peaches. How many crunches did David do?",
+        "answer": 45.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra, irrelevant information.  We're given information about Jake, Steven, and Jill's peaches, but the question asks about how many crunches David did. There's no information connecting the number of peaches to the number of crunches David did.\n\nTherefore, the answer is: **There is not enough information to determine how many crunches David did.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Steven has 12 peaches. Jake has 4 fewer peaches than Steven who has 67 more peaches than Jill. How many chapters did he read per day?",
+        "answer": 332.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  We are given information about the number of peaches Steven, Jake, and Jill have, but the question asks how many chapters Steven read per day. There's no information about Steven's reading habits.  The answer cannot be determined.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The Razorback t-shirt shop makes $ 98 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 163 t-shirts. If they sold 89 t-shirts during the Arkansas game How many days would the water bottles last?",
+        "answer": 22.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides irrelevant information about the number of t-shirts sold and the profit made.  There's no information about water bottles.  Therefore, it's impossible to determine how many days the water bottles would last.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jack received 6 emails in the morning, 3 emails in the afternoon and 5 emails in the evening. How many children were riding on the bus before the bus stop?",
+        "answer": 39.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question! The number of emails Jack received has nothing to do with the number of children on a bus.  There's no way to answer how many children were on the bus before the bus stop from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jake has 5 fewer peaches than Steven. Steven has 18 more peaches than Jill. If Jill has 87 peaches How many cakes would baker still have?",
+        "answer": 111.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many cakes a baker has, but the provided information is about peaches, not cakes.  We can solve for the number of peaches Jake and Steven have, but there's no information about a baker or cakes.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "For the walls of the house he would use 13 large planks of wood. If each plank of wood needs 17 pieces of nails to be secured and in addition 8 nails are needed for some smaller planks. How many more bird families flew away for the winter than those that stayed behind?",
+        "answer": 31.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides irrelevant information about the number of planks and nails needed for the house.  There's no information about birds in the problem.  Therefore, it's impossible to answer \"How many more bird families flew away for the winter than those that stayed behind?\"  The answer is **unknown**.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A grocery store had 54 bottles of diet soda, 83 bottles of regular soda and 12 apples. How much did the candy bar cost?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about diet soda, regular soda, and apples, but it doesn't provide any information about a candy bar.  Therefore, it's impossible to determine the cost of the candy bar.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Brenda's mother made cookies for 14. If each of them had 30 cookies How many tickets did Dave have left?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra information.  The number of cookies and the number of people eating them is irrelevant to the number of tickets Dave has left.  There's no information about how many tickets Dave started with, so we cannot answer how many he has left.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Dave had 15 apps on his phone. He added 71 new apps. After deleting some he had 14 left. How many people are there in that school?",
+        "answer": 1396.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a trick!  The number of apps Dave has on his phone has nothing to do with the number of people in a school.  There's no way to answer how many people are in the school based on the information given.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Kelly has 106 nintendo games. How many does she need to give away so that she will have 6 games left?",
+        "answer": 105.0,
+        "gemini-1.5-flash (insufficient_question)": "Kelly needs to give away 106 - 6 = 100 games.\n",
+        "eval_result": 1
+    },
+    {
+        "insufficient_question": "Matthew had 15 crackers. If Matthew gave equal numbers of crackers to his 5 friends and still had 10 crackers left How many push-ups did Zachary do?",
+        "answer": 35.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem includes irrelevant information.  The number of crackers Matthew had and how many he gave away is unrelated to how many push-ups Zachary did.  There's no way to answer how many push-ups Zachary did based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Last week Fred had 114 dollars and Jason had 22 dollars. They washed cars over the weekend and now Fred has 21 dollars and Jason has 78 dollars. How many kids did she play with on monday and tuesday?",
+        "answer": 33.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about how many kids she played with is unrelated to the information about Fred and Jason's money.  There's not enough information to answer the question about the number of kids.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Frank had 42 pieces of candy. If he put them equally into 2 bags How many did each of them have?",
+        "answer": 18.0,
+        "gemini-1.5-flash (insufficient_question)": "Each bag had 42 / 2 = 21 pieces of candy.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jack received 6 emails in the morning and 2 emails in the afternoon. How many eggs will each group have?",
+        "answer": 5.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a bit of a trick question!  The number of emails Jack received has nothing to do with the number of eggs any group might have.  There's no way to answer how many eggs each group will have based on the information given.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Baker made 43 cakes and 114 pastries. If he sold 154 pastries and 78 cakes How many packages will she have?",
+        "answer": 17.0,
+        "gemini-1.5-flash (insufficient_question)": "Here's how to solve this problem step-by-step:\n\n1. **Cakes remaining:** The baker started with 43 cakes and sold 78.  This is not possible, as she doesn't have enough cakes to sell 78. There must be an error in the problem statement.\n\nAssuming there was a mistake and the baker *had* 78 cakes, we'll proceed with that corrected information:\n\n2. **Pastries remaining:** The baker started with 114 pastries and sold 154.  Again, this is impossible because she didn't have enough pastries to begin with. There is an error in the problem statement.\n\nIf the baker sold 114 pastries from her initial 114, that makes the answer to step 2 zero.\n\n\n**The problem's initial numbers are inconsistent.**  To answer how many packages she'll have, we need corrected starting amounts for the cakes and pastries.  We also need to know the number of items per package.  The problem cannot be solved as stated.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Haley has 20 marbles. In her class 2 boys love to play marbles. If she distributes her marbles equally How many cakes would baker still have?",
+        "answer": 4.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The number of boys who like marbles is irrelevant to how many marbles Haley has. The question asks how many *cakes* a baker would have, and there's no information about a baker or cakes in the problem.  We can't answer how many cakes the baker would have.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "They decided to hold the party in their backyard. They have 4 sets of tables and each set has 3 chairs. If a total of 14 people will attend the party How many more bird families flew away to africa than those that flew away to asia?",
+        "answer": 27.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of tables and chairs is irrelevant to the number of bird families that flew to Africa versus Asia.  The question provides no information about bird migration.  Therefore, it's impossible to answer.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Last week Fred had 19 dollars and Jason had 16 dollars. They washed cars over the weekend and now Fred has 40 dollars and Jason has 69 dollars. How many birds and storks are sitting on the fence?",
+        "answer": 13.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The information about Fred and Jason's money is irrelevant.  There's no way to determine how many birds and storks are on the fence from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Rachel has 4 apple trees. She picked 7 apples from each of her trees. Now the trees have a total 29 apples still on them. How many total items could his shelves hold?",
+        "answer": 72.0,
+        "gemini-1.5-flash (insufficient_question)": "Here's how to solve this:\n\n1. **Apples picked:** Rachel picked 7 apples/tree * 4 trees = 28 apples\n\n2. **Total apples originally:** There were 28 apples picked + 29 apples remaining = 57 apples in total.\n\nThe question about the number of items her shelves can hold is irrelevant and cannot be answered from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A grocery store had a total of 30 bottles of which 28 were bottles of regular soda and the rest were bottles of diet soda. How many days will it take to fill 240 drums of grapes?",
+        "answer": 30.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of diet soda bottles is irrelevant to the question about filling drums of grapes.  There's no information provided to determine how many grapes are in a drum or how many drums can be filled per day.  Therefore, the question cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The Ferris wheel in paradise park has 2 small seats and 23 large seats. Each small seat can hold 14 people and large seat can hold 54 people. How many crayons had been lost or given away?",
+        "answer": 367.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of crayons is unrelated to the information about the Ferris wheel seats.  There's no way to answer how many crayons were lost or given away from the provided text.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Debby bought 360 soda bottles and 162 water bottles when they were on sale. If she drank 122 water bottles and 9 soda bottles a day How many more trees survived the typhoon than those that died?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of trees surviving a typhoon is unrelated to the information about Debby's purchases of soda and water bottles.  There's not enough information provided to answer the tree question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A grocery store had 4 bottles of diet soda. If they had 79 more bottles of regular soda than diet soda How many storks are sitting on the fence?",
+        "answer": 8.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of bottles of soda has nothing to do with the number of storks on a fence.  There's no way to answer how many storks are sitting on the fence based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "During the Arkansas and Texas tech game the Razorback t-shirt shop made $ 60 by selling t-shirts. If they make $ 10 dollars off each t-shirt sold How many more push-ups did Zachary do than John?",
+        "answer": 30.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides irrelevant information about t-shirt sales.  There's no information given about how many push-ups Zachary or John did.  Therefore, it's impossible to answer how many more push-ups Zachary did than John.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Frank was reading through his favorite book. He read 22 pages per day and it took him 569 days to finish the book. How much deeper is the water than Dean's height?",
+        "answer": 81.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about how long it took Frank to read a book, but this is irrelevant to the question of how deep the water is compared to Dean's height.  There's no information given about Dean or the water's depth.  Therefore, the question cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Allan brought 2 balloons to the park and then bought 3 more balloons there. If Jake brought 6 balloons to the park How many seeds did they plant in each flowerbed?",
+        "answer": 5.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about balloons, but asks about seeds and flowerbeds.  There's no way to answer how many seeds they planted in each flowerbed from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Rachel had to complete 8 pages of math homework, 7 pages of reading homework and 3 more pages of biology homework. How many more games does Katie have than her friends?",
+        "answer": 6.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many *more* pages of homework Katie has than her friends.  We don't know anything about Katie's homework or how many friends she has.  Therefore, we cannot answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Every day Ryan spends 2 hours on learning english, 5 hours on learning chinese and 4 hours on learning spanish. How much carpet does she need to cover the floors of all rooms?",
+        "answer": 6840.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about the amount of time Ryan spends learning languages, but this is irrelevant to the amount of carpet needed.  There's no information given about the size of the rooms.  Therefore, it's impossible to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "2 birds were sitting on the fence. 5 more birds and 4 more storks came to join them. How many peaches does Steven have?",
+        "answer": 28.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of birds and storks has nothing to do with how many peaches Steven has.  There's no way to answer how many peaches Steven has from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paco had 6 cookies. He gave 30 cookies to his friend and ate 23 cookies. How many pieces of candy does he still have left?",
+        "answer": 4.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states Paco had 6 cookies, but then gave away *more* cookies (30) than he possessed.  This is impossible.  The question about candy is irrelevant because it's a trick question with contradictory information about the cookies.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Baker made 170 cakes. He sold 78 of them and bought 31 new cakes. How many cakes would baker still have?",
+        "answer": 15.0,
+        "gemini-1.5-flash (insufficient_question)": "Here's how to solve the problem step-by-step:\n\n1. **Cakes remaining after selling:** 170 cakes - 78 cakes = 92 cakes\n2. **Total cakes after buying:** 92 cakes + 31 cakes = 123 cakes\n\nThe baker would still have $\\boxed{123}$ cakes.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Shirley sold 25 cases of boxes of trefoils. How many more Ace cards than baseball cards does Nell have?",
+        "answer": 91.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states that Shirley sold 25 cases of trefoils.  This information is irrelevant to the question of how many more Ace cards than baseball cards Nell has.  There's not enough information provided to answer the question about Nell's cards.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "We ordered 17 pizzas. Each pizza has 4 slices. If there are 25 of us How far is the end of the cave?",
+        "answer": 2226.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of pizza slices and people is a distraction.  There's no information provided to determine how far the end of the cave is.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were 12 roses and 2 orchids in the vase. Jessica cut some more roses and orchids from her flower garden. There are now 10 roses and 21 orchids in the vase. How many more marbles did Ed have than Doug then?",
+        "answer": 21.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra information that is not needed to solve a question that isn't asked.  The problem describes roses and orchids, but then asks about marbles and two people named Ed and Doug, who are not mentioned anywhere in the flower descriptions.  There's no way to answer the question about marbles from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Mary is baking a cake. The recipe calls for 5 cups of flour and 14 cups of sugar. She already put in 10 cups of flour and 2 cups of sugar. How many tickets did Dave use to buy toys?",
+        "answer": 5.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains irrelevant information.  The question about Dave buying toys with tickets has nothing to do with Mary baking a cake.  There's no way to answer how many tickets Dave used.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "We ordered 7 pizzas. Each pizza has the same number of slices. If there were a total of 14 slices How many hours does he spend on learning english in all?",
+        "answer": 12.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains irrelevant information.  The number of pizzas and slices is unrelated to the number of hours spent learning English.  There's no way to answer the question about English learning time based on the pizza information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The Razorback t-shirt shop makes $ 78 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 186 t-shirts. If they sold 172 t-shirts during the Arkansas game How many more green peaches than red peaches are in the basket?",
+        "answer": 6.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  The number of t-shirts sold and the profit per shirt are not needed to answer the question about the peaches.  The question about the peaches cannot be answered because there is no information about the number of red or green peaches.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 62 different movies and 19 different books in the ' crazy silly school ' series. If you read 4 of the books and watched 34 of the movies How many more baseball cards than Ace cards does Nell have?",
+        "answer": 123.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives us information about movies and books in a series, but then asks a completely unrelated question about baseball and Ace cards.  There's no way to answer how many more baseball cards than Ace cards Nell has based on the provided information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "In Haley's class some boys love to play marbles. Haley gives 2 marbles to each boy. If she had 28 marbles How many apples did he use?",
+        "answer": 41.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states Haley gave marbles to boys, not apples.  To find out how many boys there are:\n\n28 marbles / 2 marbles/boy = 14 boys\n\nHaley used **zero** apples.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Matthew had 14 crackers and 21 cakes. If Matthew gave equal numbers of crackers and cakes to his 7 friends How many pages does the book have altogether?",
+        "answer": 125.0,
+        "gemini-1.5-flash (insufficient_question)": "The question contains irrelevant information about a book.  The problem focuses on Matthew sharing crackers and cakes.\n\nMatthew has 14 crackers and 21 cakes. He has 7 friends.\n\nTo find out how many crackers and cakes each friend gets, we divide the total number of each item by the number of friends:\n\n* Crackers per friend: 14 crackers / 7 friends = 2 crackers/friend\n* Cakes per friend: 21 cakes / 7 friends = 3 cakes/friend\n\nEach friend gets 2 crackers and 3 cakes.  The question about the number of pages in a book is unrelated and unanswerable.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "For the walls of the house he would use 4 nails in all to secure large planks of wood. If each plank of wood needs 2 pieces of nails to be secured How many people are there on the train now?",
+        "answer": 19.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of nails used to build a house has absolutely no relation to the number of people on a train.  There is no way to answer how many people are on the train based on the information given.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "He then went to see the oranges being harvested. He found out that they harvest 8 sacks per day and that each sack containes 35 oranges. How many more visitors visited the Buckingham palace on that day than on the previous 245 days?",
+        "answer": 57.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about orange harvesting is irrelevant to the number of visitors at Buckingham Palace.  There's no information provided about Buckingham Palace visitor numbers.  Therefore, the question cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Edward spent $ 16 to buy books and $ 8 to buy pens. Now he has $ 19. How many more cookies did he eat than those he gave to his friend?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a trick question!  There's no information about cookies given in the problem.  The information about the books and pens is irrelevant.  The answer is **we cannot determine** how many more cookies he ate than he gave to his friend.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 144 chocolate chip cookies and 397 raisin cookies yesterday. And she baked 85 raisin cookies and 403 chocolate chip cookies this morning. How many old games do they have 3",
+        "answer": 121.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of cookies baked has nothing to do with how many old games Helen and her friends have.  There's no information about the number of old games in the problem.  The answer is: **There is not enough information provided to answer the question.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Rachel picked 2 ripe apples from her tree. Now the tree has 7 apples still on it. If 6 of those are ripe and the rest are unripe How many kids did she play with altogether?",
+        "answer": 26.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about apples but asks about kids.  There's no information about how many kids Rachel played with.  The answer is **unknown**.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Zachary did 51 push-ups in gym class today. David did 22 more push-ups than Zachary. John did 4 push-ups less than David. How many orchids did she cut?",
+        "answer": 4.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem includes extra information that is not needed to solve the problem.  The question asks how many orchids *she* cut, but the problem only discusses the number of push-ups done by Zachary, David, and John.  There's no information about orchids.\n\nTherefore, the answer is **There is not enough information to answer the question.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 519 chocolate chip cookies and 300 raisin cookies yesterday. And she baked 280 raisin cookies and 359 chocolate chip cookies this morning. How many more bottles than apple did they have?",
+        "answer": 98.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about the number of cookies Helen baked, but it doesn't provide any information about bottles or apples.  Therefore, we cannot answer how many more bottles than apples they had.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A grocery store had 81 bottles of regular soda, 60 bottles of diet soda and 60 bottles of lite soda. How many students were there in total?",
+        "answer": 22800.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The number of soda bottles has nothing to do with the number of students.  There's no information given about students.  The answer is **there is not enough information provided to determine the number of students.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Randy has some blocks. He uses 52 blocks to build a tower. If there are 38 blocks left How far did the mouse jump?",
+        "answer": 8.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides irrelevant information about the number of blocks Randy used and had left.  The question about the mouse's jump is completely unrelated.  There's no way to answer how far the mouse jumped.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Ed had 19 more marbles than Doug. Ed lost some of his marbles at the playground. Now Ed has 8 more marbles than doug. How many bird families were left near the mountain?",
+        "answer": 14.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of marbles Ed and Doug have, and how many Ed lost, are irrelevant to the number of bird families near the mountain.  There's no information provided to answer the question about the birds.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 20 houses in a block. If a mailman has to give 32 pieces of junk mail to each house in each block How many eggs does Rebecca have?",
+        "answer": 22.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of houses and pieces of junk mail is irrelevant to how many eggs Rebecca has.  There's no way to answer how many eggs Rebecca has from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 7 baskets of peaches. Each basket has 10 red peaches and 2 green peaches. How many cookies did he have in the beginning?",
+        "answer": 54.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states the number of peaches in baskets, but asks about cookies.  There's no information about cookies.  Therefore, it's impossible to answer how many cookies he had in the beginning.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Because of the decision Sofia asked the students to suggest specific types of food. If 144 students suggested adding mashed potatoes 467 suggested adding bacon to the menu and 79 suggested adding tomatoes How many peaches are in the baskets altogether?",
+        "answer": 308.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of students suggesting different foods is irrelevant to the number of peaches in the baskets.  There's no information provided about peaches.  The answer is: **There is not enough information to determine the number of peaches.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "In a school there are 700 girls and the rest are boys. If there are 142 more boys than girls How many files did he delete?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra information that's not needed to solve the question.  The question asks how many files were deleted, but the provided information only relates to the number of girls and boys in a school.  There's no information about files being deleted.  Therefore, the answer is **unknown**.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A waiter had 14 customers. 5 customers left. How many packages will she have?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The number of customers leaving doesn't tell us anything about the number of packages.  The waiter could have zero packages, one package, or many.  There's no way to know from the information given.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Lucy went to the grocery store. She bought 2 packs of cookie and 12 packs of cake. In the end she had 56 amount of change remaining. How many more books than action figures were on his shelf?",
+        "answer": 6.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about Lucy's grocery shopping and her remaining change, but it gives *no* information about books or action figures.  Therefore, it's impossible to answer how many more books than action figures were on her shelf.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Marco and his dad went strawberry picking. His strawberries weighed 8 pounds while his dad's strawberries weighed 32 pounds. How many more apples does Jackie have than Adam?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains a trick!  It asks about the difference in the weight of *strawberries* between Marco and his dad, but then asks about the number of *apples* Jackie and Adam have.  There's no information given about Jackie and Adam, so the question cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Kelly gives away 91 nintendo games. How much did they jump altogether?",
+        "answer": 66.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  There's no information given about how much the games jumped.  The number of games given away is irrelevant to how much they jumped.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The Razorback t-shirt shop makes $ 106 dollars off each t-shirt sold. During the Arkansas game and the Texas tech game they sold a total of 242 t-shirts. If they sold 115 t-shirts during the Arkansas game How much money did he have initially?",
+        "answer": 5.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem only tells us how much money the shop makes *per t-shirt*, and how many t-shirts they sold in total over two games.  It doesn't say anything about how much money they had *initially* before selling any shirts.  Therefore, we cannot answer the question of how much money they had initially.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The Razorback t-shirt shop makes $ 23 dollars off each t-shirt sold. During the Arkansas and Texas tech game they made $ 230 by selling t-shirts. How many more cups of sugar does she need to add?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The question about sugar is completely unrelated to the information about t-shirt sales.  We can solve the t-shirt part:\n\nThey made $230 selling shirts at $23 each, so they sold 230 / 23 = 10 shirts.\n\nHowever, there's no information to answer how many more cups of sugar are needed.  The problem is missing crucial information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Randy has 90 blocks. He uses 89 blocks to build a house and 63 blocks to build a tower. How many more books than action figures were on his shelf?",
+        "answer": 4.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about blocks, but asks a question about books and action figures.  There's no information provided about books or action figures, so the question can't be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Allan brought 2 balloons and Jake brought 3 balloons to the park. How many chairs do they have in the backyard?",
+        "answer": 143.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a trick!  The number of balloons they brought to the park has nothing to do with the number of chairs in their backyard.  There's no way to answer how many chairs they have based on the information given.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Every day Ryan spends 7 hours on learning english, 2 hours on learning chinese and 4 hours on learning spanish. How many students participated in the suggestion of new food items?",
+        "answer": 826.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of students participating in a food suggestion is unrelated to the information provided about Ryan's language learning.  There's no answer to that question within the given text.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Robin has 43 packages of gum. There are 23 pieces in each package. Robin has 8 extra pieces of gum. How many did each of them have?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "Here's how to solve this:\n\n1. **Total gum from packages:** 43 packages * 23 pieces/package = 989 pieces\n\n2. **Total gum:** 989 pieces + 8 pieces = 997 pieces\n\nThe problem states Robin has the gum,  so **Robin has 997 pieces of gum.**  There's no information about anyone else.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paul had 108 books. After selling some books in a garage sale and giving 35 books to his friend he had 62 books left. How many campers went rowing in the afternoon?",
+        "answer": 17.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of books Paul sold or gave away is irrelevant to the number of campers who went rowing.  There's no information connecting the two scenarios.  The question cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "For the walls of the house he would use 12 large planks of wood and 17 small planks. If each large plank of wood needs 14 pieces of nails to be secured and each small plank needs 25 nails. How many total action figures could his shelves hold?",
+        "answer": 44.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many action figures the shelves could hold, but provides information only about the number of planks and nails used for the walls.  There's no information given about the shelves themselves or their capacity.  Therefore, it's impossible to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Melissa played 3 games and scored a total of 81 points scoring the same for each game. How many weeks did the harvest last?",
+        "answer": 76.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of weeks the harvest lasted is unrelated to the information given about Melissa's games.  Melissa scored 81/3 = 27 points per game.  There's no information about a harvest.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A mailman has to give 4 pieces of junk mail to each house in each of the 81 blocks. If there are 12 houses in each block How many push-ups did David do?",
+        "answer": 78.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the mailman's junk mail is a distraction.  There's no information given about how many push-ups David did.  The answer is: **We don't know.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Mary is baking a cake. The recipe calls for 9 cups of sugar 7 cups of flour and 4 cups of salt. She already put in 2 cups of flour. How many blocks are left?",
+        "answer": 23.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The problem gives information about cups of ingredients but asks how many *blocks* are left.  There's no information about blocks in the problem.  The answer is that we don't know how many blocks are left.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jesse needs a carpet of size 10 square feet to cover her room. If her room is 2 feet wide How many bottle caps does he have now?",
+        "answer": 65.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives us irrelevant information.  The size of Jesse's carpet and the width of her room have nothing to do with how many bottle caps she has.  There's no way to answer the question about the number of bottle caps.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are some bananas in Philip's banana collection. If the bananas are organized into 140 groups of size 187 About how many kids are in Lawrence county?",
+        "answer": 1363293.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of bananas in Philip's collection is irrelevant to the number of kids in Lawrence County.  There's no way to answer the question about the number of children in Lawrence County based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Rebecca wants to split a collection of eggs into groups of 6. Rebecca has 18 eggs 72 bananas and 66 marbles. How many more pupils were present compared to parents in the program?",
+        "answer": 347.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about eggs, bananas, and marbles, but doesn't mention pupils or parents.  Therefore, it's impossible to answer how many more pupils were present compared to parents.  The information about the eggs is irrelevant to the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jessie currently weighs 9 kilograms. After she started to go jogging everyday she lost 62 kilograms in the first week and 140 kilograms in the second week. How many more cups of sugar does she need to add?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains contradictory information.  A person cannot weigh 9 kilograms and then lose 62 and then 140 kilograms.  The question about adding sugar is irrelevant because the weight loss figures are unrealistic and nonsensical within the context of human weight.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "13 campers went rowing and 59 campers went hiking in the morning. 21 campers went rowing in the afternoon. How many white t - shirts will she have?",
+        "answer": 3021.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of campers who went rowing or hiking is irrelevant to the number of white t-shirts.  The question cannot be answered without more information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jerry had 9 action figures on a shelf in his room. Later he added 7 more action figures to the shelf. If he also has 10 books on the shelf How many pages does the book have altogether?",
+        "answer": 1891.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives extra information.  The number of action figures is irrelevant to the number of pages in the books.  There's no way to know how many pages are in the 10 books without more information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paul got a box of 589 crayons for his birthday. During the school year he gave 571 crayons to his friends while he lost 161 crayons. How many fishes disappeared?",
+        "answer": 4.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is a trick!  The number of crayons Paul has or gave away is irrelevant. The question asks how many *fishes* disappeared, and that information isn't provided.  The answer is: **We don't know.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jack received 9 emails in the morning, 10 emails in the afternoon and 7 emails in the evening. How long was his hair before he cut?",
+        "answer": 30.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of emails Jack received has nothing to do with the length of his hair. There's no way to answer how long his hair was before he got a haircut from the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jack received 6 emails in the morning and 8 emails in the afternoon. How many children got off the bus at the bus stop?",
+        "answer": 22.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of emails Jack received is unrelated to the number of children getting off the bus.  There's no way to answer how many children got off the bus based on the information given.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "After eating a hearty meal they went to see the Buckingham palace. There were 71 paintings in the Buckingham palace. There, Rachel learned that 557 visitors came to the Buckingham palace that day. If there were 188 visitors the previous day How many more roses than orchids are there in the vase now?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains irrelevant information.  The number of paintings, the number of visitors on the current day and the previous day, and the fact that they ate a hearty meal are all distractions.  There is no information given about the number of roses or orchids in the vase.\n\nTherefore, it's impossible to answer how many more roses than orchids are in the vase.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 197 chocolate chip cookies and 46 raisin cookies yesterday. And she baked 75 raisin cookies and 66 chocolate chip cookies this morning. How many crayons had been lost or given away?",
+        "answer": 229.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about cookies, but asks about crayons.  There's no information about crayons in the problem.  Therefore, we cannot answer how many crayons were lost or given away.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jake has 18 fewer peaches than Steven who has 13 more peaches than Jill. Steven has 19 peaches. How many more sacks of ripe oranges than unripe oranges are harvested per day?",
+        "answer": 19.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about peaches, but asks about oranges.  There is no information given about oranges, so the question cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Lucy went to the grocery store. She bought 23 packs of cookie and some packs of cake. In total she had 27 packs of grocery How many push-ups did Zachary and David do altogether?",
+        "answer": 20.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about Lucy buying cookies and cakes, but then asks a completely unrelated question about Zachary and David doing push-ups.  There's no way to answer how many push-ups Zachary and David did based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Every day Ryan spends 6 hours on learning english 3 hours on learning chinese and 58 hours on learning spanish. How much did she spend at the supermarket?",
+        "answer": 31.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about how much time Ryan spends learning different languages, but it doesn't contain any information about how much she spent at the supermarket.  Therefore, it's impossible to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A book has 2 chapters. The first chapter is 48 pages long. The second chapter is 11 pages long. How many more students suggested mashed potatoes than those that suggested bacon?",
+        "answer": 61.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem gives information about the length of chapters in a book but asks a question about student preferences for food.  These are unrelated.  There's no way to answer the question about mashed potatoes and bacon from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "6 green peaches, 60 yellow peaches and 2 red peaches are in the basket. How many more kids did she play with on monday than on wednesday?",
+        "answer": 6.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about peaches, but asks a question about kids playing.  There's no information about how many kids played on Monday or Wednesday.  Therefore, the question cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were 22 parents in the program and 676 people in total. How many more balloons did Allan have than Jake in the park?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives us information about the number of parents and the total number of people at a program, but it doesn't provide any information about Allan and Jake or the number of balloons they have.  Therefore, it's impossible to answer how many more balloons Allan had than Jake.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Julia played tag with 17 kids on monday, 15 kids on tuesday and 2 kids on wednesday. How many candy bar did he buy?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem only tells us how many kids Julia played tag with.  There's no information about how many candy bars she bought.  We can't answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The grasshopper, the frog and the mouse had a jumping contest. The grasshopper jumped 25 inches. The frog jumped 18 inches farther than the grasshopper and the mouse jumped 2 inches farther than the frog. How many peaches does Jake have?",
+        "answer": 7.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra information.  The question about the jumping contest is irrelevant to how many peaches Jake has.  There's no way to answer how many peaches Jake has from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Mary is baking a cake. The recipe calls for 14 cups of flour and 6 cups of sugar. She already put in 5 cups of flour. How far did the frog jump?",
+        "answer": 11.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The information about the cake and the frog are unrelated.  There's no way to determine how far the frog jumped based on the cake recipe.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jake has 13 more apples and 17 fewer peaches than Steven. Steven has 8 peaches and 12 apples. How many more movies than books have you read?",
+        "answer": 14.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about Jake and Steven's fruit, but asks a completely unrelated question about the number of movies and books *I* have read.  There's no way to answer the question about my movie and book reading from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jake has 12 fewer peaches than Steven who has 11 more peaches than Jill. Steven has 4 peaches. How many bottles had she bought?",
+        "answer": 8066.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many *bottles* Jill bought, but the problem only gives information about peaches.  There's no information about bottles, so we can't answer that question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Last week Fred had 86 dollars and Jason had 5 dollars. Fred washed cars over the weekend and now has 9 dollars and Jason did not work. How many more apps did he add than he deleted?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states that Fred had 86 dollars and now has 99 dollars.  The question about apps is unrelated to the information given.  The problem focuses on Fred's money.  He gained 99 - 86 = 13 dollars.\n\nThere's no information about apps.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 10 different books and 6 different movies in the ' crazy silly school ' series. If you read 14 of the movies and watched 19 of the books How many people are there on the bus now?",
+        "answer": 16.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a bit of a trick question!  The number of books and movies read/watched has nothing to do with how many people are on a bus.  There's no information given about a bus.  The answer is: **We don't know.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Debby bought 301 water bottles when they were on sale. If she drank 144 bottles a day for some days. If she has 157 bottles left How many pages did he read per day?",
+        "answer": 83.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many *pages* Debby read per day, but the provided information is about water bottles.  There's no information about reading in the problem.  The question is unanswerable.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "He also had 56 aquariums for saltwater animals and 10 aquariums for freshwater animals. Each aquarium has 39 animals in it. How many marbles does Doug have now?",
+        "answer": 9.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about aquariums and the number of animals in them, but it doesn't mention anything about Doug having marbles.  Therefore, we cannot answer how many marbles Doug has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Tiffany was collecting cans for recycling. On monday she had 10 bags of cans. She found 3 bags of cans on the next day and 7 bags of cans the day after that. How many minutes did the machine work in all?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is a bit of a trick!  The problem gives information about how many bags of cans Tiffany collected, but it asks how many *minutes* the recycling machine worked.  There's no information provided about how long the machine ran.  Therefore, we **cannot** answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The grasshopper and the frog had a jumping contest. The grasshopper jumped 31 inches and the frog jumped 35 inches. How many more children are on the bus now than there were before the bus stop?",
+        "answer": 8.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The information about the grasshopper and frog is irrelevant. There's no information given about children getting on or off a bus.  The answer is **0**.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were 100 dollars in Olivia's wallet. She collected 148 more dollars from an atm. After she visited a supermarket there were 159 dollars left. How many more pages does the first chapter have than the second chapter?",
+        "answer": 68.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains irrelevant information.  The information about Olivia's money has nothing to do with the number of pages in the chapters of a book.  There's no way to answer the question about the chapters based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A waiter had 11 customers. After some left he still had 3 customers. How much do you have to pay to buy each pack?",
+        "answer": 51.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The number of customers who left and how many are still there is irrelevant to the cost of a pack of something.  There's no information about the cost of anything.  The answer is: **There is not enough information to answer the question.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Katie had 81 ds games and her friends had 59 games. How many sacks of oranges will they have after 51 days of harvest?",
+        "answer": 153.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of DS games Katie and her friends have is irrelevant to the number of sacks of oranges they'll have after 51 days of harvest.  There's no information provided to answer the question about orange sacks.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Being his favorite, he saved checking on the grapevines for his last stop. He was told by 266 of the pickers that they fill 90 drums of grapes in 5 days. How many bottle caps did he find at the park?",
+        "answer": 32.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides irrelevant information about grape pickers and drums of grapes.  There's no information connecting that to the number of bottle caps he found at the park.  Therefore, it's impossible to answer how many bottle caps he found.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Julia played tag with 5 kids on tuesday. She had played tag with 6 kids on monday. How many cups of flour did she put in?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of kids Julia played tag with has nothing to do with how much flour she used.  There's no way to answer how many cups of flour she used based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Julia played tag with a total of 18 kids. She played with 4 kids on monday and yet with some more kids on tuesday. How many more crayons than erasers did he have left?",
+        "answer": 66.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem has two parts that are unrelated.  The first part gives information about Julia playing tag, but the second part asks about crayons and erasers, with no information provided about them.  Therefore, it's impossible to answer how many more crayons than erasers Julia had left.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jerry had 3 books and 4 action figures on a shelf in his room. Later he added 2 more action figures to the shelf. How many sacks did they harvest per day if they harvested for a total of 14 days?",
+        "answer": 4.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains extra information.  The question about sacks harvested is unrelated to the number of books and action figures Jerry has.  There's not enough information to answer how many sacks they harvested per day.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Dave had 19 apps and 18 files on his phone. After deleting some apps and files he had 6 apps and 15 files left. How many boys are there in that school?",
+        "answer": 337.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The information about the apps and files is irrelevant. There's no information given about how many boys are at the school.  The answer is: **We don't know.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Baker made 99 cakes. He bought 167 new cakes and sold 89 cakes. How many pieces of candy are in each bag?",
+        "answer": 8.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about cakes, but asks about candy.  There's no information about candy or bags of candy.  Therefore, it's impossible to answer how many pieces of candy are in each bag.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Edward spent $ 6 to buy books and $ 16 to buy pens. Now he has $ 19. How many chairs do they have for the guests?",
+        "answer": 174.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about Edward's spending on books and pens and his remaining money.  However, there's no connection between his spending and the number of chairs he has for guests.  Therefore, it's impossible to answer how many chairs he has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Bryan took a look at his books as well. Each bookshelf contains 2 books. If he has a total of 38 books How many more visitors visited the Buckingham palace on that day than on the previous day?",
+        "answer": 61.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of visitors to Buckingham Palace is unrelated to the information about Bryan's books.  We can determine how many bookshelves Bryan has (38 books / 2 books/shelf = 19 shelves), but that doesn't help answer the Buckingham Palace question.  There's not enough information to answer the question about the palace visitors.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were 7 roses in the vase. Jessica cut some more roses from her flower garden which had a total of 59 roses. There are now 20 roses in the vase. How many people can ride the Ferris wheel on large seats?",
+        "answer": 84.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem about the roses is irrelevant to the question about the Ferris wheel.  There's no information provided about the Ferris wheel's capacity or seating arrangements.  Therefore, it's impossible to answer how many people can ride the Ferris wheel on large seats.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Luke played a trivia game and gained 3 points in each round of a game. If he scored 78 points in the trivia game How many books did he sell?",
+        "answer": 109.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many *books* Luke sold, but the provided information is about a trivia game and his points.  There's no connection between the trivia game and book sales.  The question is unanswerable as stated.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Baker made 13 cakes. He sold 91 of them and bought 154 new cakes. How many more storks than birds are sitting on the fence?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  The number of cakes the baker made, sold, and bought has nothing to do with the number of storks and birds on a fence.  There's no way to answer how many more storks than birds are on the fence from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "He then went to see the oranges being harvested. He found out that they harvest 71 sacks of unripe oranges and 60 sacks of ripe oranges per day. What is the cost of each t-shirt?",
+        "answer": 17.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about orange harvesting but asks for the cost of a t-shirt.  There is no information connecting the orange harvest to the price of a t-shirt.  Therefore, it's impossible to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "At the zoo, a cage had snakes and alligators. The total number of animals in the cage was 79. If 24 snakes and 51 alligators were hiding About how many kids in Lawrence county went to camp?",
+        "answer": 30057.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem gives information about the number of snakes and alligators hiding, but asks a completely unrelated question about kids in Lawrence County going to camp.  There's no way to answer the question about the kids in Lawrence County based on the information provided about the zoo animals.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There were 2 roses in the vase. Jessica threw away 4 roses from the vase and cut some more new roses from her flower garden to put in the vase. There are now 23 roses in the vase. How much money is left?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a trick!  It doesn't give any information about money.  The question about money is irrelevant.  The problem focuses on the number of roses.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Rachel had to complete 5 pages of math homework, 10 pages of reading homework and 6 more pages of biology homework. How much money will he earn if he works for 73 harvest seasons?",
+        "answer": 22090603.0,
+        "gemini-1.5-flash (insufficient_question)": "The question contains irrelevant information.  The number of pages of homework has nothing to do with how much money Rachel will earn over 73 harvest seasons.  We need information about Rachel's earnings per harvest season to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jerry had 7 action figures and 2 books on a shelf in his room. Later he added 4 more books to the shelf. How much money is left?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem doesn't give any information about money.  It only describes the number of action figures and books on a shelf.  Therefore, we cannot determine how much money is left.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "In a school there are 34 girls and 841 boys. How much money does Fred have now?",
+        "answer": 192.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of girls and boys in the school is irrelevant to how much money Fred has.  There's no way to answer how much money Fred has based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Bobby ate some pieces of candy. Then he ate 25 more. If he ate a total of 43 pieces of candy How much does she weigh now?",
+        "answer": 34.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a trick!  The number of candies Bobby ate has nothing to do with how much he weighs.  We cannot determine Bobby's weight from this information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "53 campers went rowing in the morning 48 campers went rowing in the afternoon and 49 campers went rowing in the evening. How many chapters did he read per day?",
+        "answer": 44.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra, unneeded information.  The question about the number of chapters read is unrelated to the number of campers rowing.  There's no way to answer how many chapters were read per day based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jack received 3 emails in the afternoon, 5 emails in the morning and 16 emails in the evening. How many more people can join the wheel?",
+        "answer": 68.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The number of emails Jack received has nothing to do with how many more people can join a wheel.  There's no information provided about a wheel or its capacity.  The answer is: **There's not enough information to answer the question.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Dan has $ 3. For a total of $ 4 he bought 2 candy bar each one costing the same amount of money. How many boys are there in that school?",
+        "answer": 1145.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The information about the candy bars and Dan's money is irrelevant. There's no information given about how many boys are in the school.  The answer is: **There is not enough information to answer the question.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Rachel had to complete 3 pages of math homework and 4 pages of reading homework. How many more bottles of regular soda than diet soda did they have?",
+        "answer": 58.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about homework assignments, but asks a question about soda.  There is no information provided about soda in the problem.  Therefore, it's impossible to answer how many more bottles of regular soda than diet soda Rachel had.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "A book has 2 chapters. The first chapter is 37 pages long. The second chapter is 80 pages long. What is the width of her room?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about the length of book chapters but this is unrelated to the width of a room.  There's no way to answer the question about the room's width from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Haley grew some trees in her backyard. After a typhoon 5 died. If 12 trees were left How much did she weigh before starting to jog?",
+        "answer": 128.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The information about the trees and the typhoon is irrelevant to Haley's weight before jogging.  There's no way to answer how much she weighed based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Helen the hippo and her friends are preparing for thanksgiving at Helen's house. Helen baked 527 chocolate chip cookies and 86 raisin cookies yesterday. And she baked 86 raisin cookies and 554 chocolate chip cookies this morning. How many tickets did Dave have left?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about how many tickets Dave had left is unrelated to the information about Helen's cookies.  There's no information about Dave or tickets in the provided text.  The answer is unanswerable.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "3 red peaches, and some more green peaches are in the basket. If there are 10 more green peaches than red peaches in the basket How many pieces of candy and chocolate did Bobby eat altogether?",
+        "answer": 51.0,
+        "gemini-1.5-flash (insufficient_question)": "The question asks how many pieces of candy and chocolate Bobby ate.  The information about peaches is irrelevant.  There's no way to answer the question about Bobby's candy and chocolate consumption with the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "After a typhoon, 13 trees in Haley's backyard died. If she had grown 3 trees initially How many more grams of wax does he need?",
+        "answer": 146.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains irrelevant information.  The number of trees that died and the number initially grown are not needed to answer the question about how many more grams of wax Haley needs.  The question is incomplete and cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Josh had 9 marbles in his collection. He lost some marbles. If he has 4 marbles now How many more marbles did Ed have than Doug then?",
+        "answer": 60.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem only tells us about Josh's marbles.  It doesn't give us any information about Ed or Doug.  Therefore, we cannot answer how many more marbles Ed had than Doug.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "He then went to see the oranges being harvested. He found out that they harvest 66 sacks per day. How much did they make per day?",
+        "answer": 33.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem only tells us how many sacks of oranges are harvested, not the value of the oranges in each sack.  Therefore, we can't determine how much money they made per day.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "At the arcade Dave had won some tickets. He used 12 tickets to buy some toys. If he still has 14 tickets left How many marbles does he have now?",
+        "answer": 13.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states how many tickets Dave has left, but it doesn't say anything about marbles.  Therefore, we cannot determine how many marbles Dave has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Adam could fit 10 action figures on each shelf in his room. His room has could hold 8 action figures. How many magazines does he have in total?",
+        "answer": 460.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a trick!  The information about shelves and action figures is irrelevant.  There's no information given about how many magazines Adam has.  The answer is: **There is not enough information to answer the question.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Marco and his dad went strawberry picking. Together they collected strawberries that weighed 24 pounds. On the way back Marco lost 9 pounds of strawberries. Marco's strawberries now weighed 3 pounds. How many more books did he sell than he bought?",
+        "answer": 6.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra information that is not needed to solve the question.  The problem about Marco and his dad picking strawberries is irrelevant to the question of how many *more* books he sold than he bought.  The question about books cannot be answered because there is no information given about how many books Marco bought or sold.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Mary is baking a cake. The recipe calls for 12 cups of flour and 13 cups of sugar. She already put in 2 cups of sugar. How many pieces of junk mail should he give in each house?",
+        "answer": 4.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem includes extra information that's not needed to solve a problem.  The question about junk mail is completely unrelated to the information about the cake recipe.  There's no way to answer how many pieces of junk mail Mary should give to each house based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Winter is almost here and most animals are migrating to warmer countries. There are 38 bird families living near the mountain. If 47 bird families flew away to africa and 94 bird families flew away to asia How many more roses did she throw away than those she cut from her garden?",
+        "answer": 6.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about the number of roses is unrelated to the information about migrating birds.  The problem cannot be solved with the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jake has 9 fewer peaches than Steven and 18 more peaches than Jill. Steven has 16 peaches. How many more storks than birds are sitting on the fence?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides extra information that's not needed to solve the core question of how many more peaches Jake has than Jill.  Let's break it down:\n\n* **Steven has 16 peaches.**\n* **Jake has 9 fewer peaches than Steven:**  16 - 9 = 7 peaches\n* **Jake has 18 more peaches than Jill:** 7 - 18 = -11 peaches.  This means Jill has 11 more peaches than Jake.\n\nThe question about storks and birds is completely unrelated to the peach information and therefore unanswerable.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Zachary did 51 push-ups and David did 44 push-ups in gym class today. How many pieces of junk mail should he give in total?",
+        "answer": 1088.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of push-ups Zachary and David did is irrelevant to the number of junk mail pieces someone should give.  The question is nonsensical.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "16 people can ride the Ferris wheel in paradise park at the same time. If the Ferris wheel has 4 seats How many more kids stayed home compared to those who went to the camp?",
+        "answer": 574664.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem only states that 16 people can ride the Ferris wheel at once and that there are 4 seats.  It doesn't give any information about how many kids went to camp or stayed home.  Therefore, it's impossible to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Rachel picked 7 ripe apples from her tree. Now the tree has 5 apples still on it. If 3 of those are ripe and the rest are unripe How many drums of grapes would be filled in 77 days?",
+        "answer": 17017.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of apples on the tree or the number of ripe apples is irrelevant to the number of drums of grapes that would be filled in 77 days.  There's no information provided to answer the question about the grapes.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Zachary did 44 push-ups in gym class today. David did 58 more push-ups than zachary. How many peaches are in each basket?",
+        "answer": 10.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra information.  The number of push-ups Zachary and David did is irrelevant to the number of peaches in a basket.  There's no way to answer how many peaches are in each basket based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "If Lewis earns a total of $ 460 during 5 weeks of harvest How many more roses did she cut than those she threw away?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem can't be solved.  The provided information only tells us Lewis's total earnings over 5 weeks. There's no information about how many roses she cut or threw away, or how much she earns per rose.  More information is needed.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Edward spent $ 4 to buy books and $ 3 to buy pens. Now he has $ 12. How many more bottle caps did danny throw away than those he found at the park?",
+        "answer": 33.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about Danny and the bottle caps is completely unrelated to the information about Edward's spending.  There's no way to answer how many more bottle caps Danny threw away than he found based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Edward spent $ 17. Then he received $ 10 from his friend. Now he has $ 7. How many pages did she have to complete in all?",
+        "answer": 23.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a bit of a trick!  The information about spending and receiving money is irrelevant to the number of pages Edward had to complete.  There's no information provided about pages in the problem.  The answer is: **There is not enough information to answer the question.**\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "For Gwen's birthday she received 2 dollars from her mom. Her dad gave her 4 more dollars. If she spent 3 dollars. How many more bottle caps than wrappers did danny find at the park?",
+        "answer": 16.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about Gwen's money, but it doesn't give any information about Danny finding bottle caps and wrappers.  Therefore, we cannot answer how many more bottle caps than wrappers Danny found.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Randy has 37 blocks. He uses 33 blocks to build a tower and 13 blocks to build a house. How much money does he pay as rent during the harvest season?",
+        "answer": 527292.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives extra information that is not needed to solve a question about rent.  The number of blocks Randy uses is irrelevant to how much rent he pays.  There is no way to answer how much rent Randy pays based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The Razorback shop makes $ 76 dollars off each jersey and $ 204 off each t-shirt. During the Arkansas and Texas tech game they sold 158 t-shirts and 2 jerseys. How much more does a t-shirt cost than a jersey?",
+        "answer": 158.0,
+        "gemini-1.5-flash (insufficient_question)": "The difference in cost between a t-shirt and a jersey is $204 - $76 = $128.  A t-shirt costs $128 more than a jersey.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Baker made 8 cakes. He bought 139 new cakes and sold 145 cakes. How many shirts did machine make?",
+        "answer": 20.0,
+        "gemini-1.5-flash (insufficient_question)": "The question contains irrelevant information.  The number of cakes the baker made, bought, and sold is unrelated to how many shirts a machine made.  There's no way to answer how many shirts the machine made based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jack received 6 emails and 8 letters in the morning. He then received 2 emails and 7 letters in the afternoon. How much more does a jersey cost than a t-shirt?",
+        "answer": 90.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about emails and letters, but asks a completely unrelated question about the cost of a jersey and t-shirt.  There's no way to answer how much more a jersey costs than a t-shirt based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jake has 3 fewer peaches and 10 more apples than Steven. Steven has 12 peaches and 15 apples. How many cups of flour did she put in?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "The question includes irrelevant information.  We are given information about Jake and Steven's fruit, but the question asks about how much flour *she* (an unspecified person) used.  There's no way to answer the question about the flour.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Frank was reading through his favorite book. The book had 41 chapters, each with the same number of pages. It has a total of 450 pages. It took Frank 30 days to finish the book. How many crayons did he have left by the end of the school year?",
+        "answer": 183.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of crayons Frank had left at the end of the school year is not provided in the information given about the book he read.  The information about the book is irrelevant to the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Jesse's room is 19 feet wide and 20 feet long. How many houses are there in a block?",
+        "answer": 4.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The dimensions of Jesse's room have nothing to do with how many houses are in a block.  There's no way to answer how many houses are in a block with the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paul got a box of 601 crayons and 406 erasers for his birthday. At the end of the school year he only had 336 crayons left while not having lost a single eraser. How many more cups of flour than cups of sugar does she need to add now?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains irrelevant information.  The question about flour and sugar has nothing to do with the information given about crayons and erasers.  There's no way to answer how many more cups of flour than sugar are needed.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The ring toss game at the carnival made 120 dollars in the first 20 days and 66 dollars in the remaining 16 days. How many more cookies did he eat than those he gave to his friend?",
+        "answer": 9.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra information that is not needed to solve the question.  The information about the ring toss game earnings is irrelevant.  The question asks about cookies, and there is no information about cookies.\n\nTherefore, the problem cannot be solved.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Mary is baking a cake. The recipe calls for 5 cups of sugar and 14 cups of flour. She already put in 11 cups of flour. How many emails did jack receive in the day?",
+        "answer": 8.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about a cake recipe and how much flour Mary used.  It doesn't contain any information about Jack receiving emails.  Therefore, it's impossible to answer how many emails Jack received.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Emily is making bead necklaces for her 44 friends. She made 26 necklaces and each necklace takes 2 beads. How many oranges will they have after 87 days of harvest?",
+        "answer": 143550.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  The number of necklaces Emily made and the beads per necklace are unrelated to the number of oranges harvested.  There's no way to answer how many oranges they'll have after 87 days based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Robin's hair was 19 inches long. If he grew 18 more inches How many visited the Buckingham palace before that day?",
+        "answer": 522.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The information about Robin's hair has nothing to do with how many people visited Buckingham Palace.  There's no way to answer the second part of the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Danny collects bottle caps and wrappers. He found 82 wrappers and 29 bottle caps at the park. Now he has 42 bottle caps and 61 wrappers in his collection. How many customers does he still have?",
+        "answer": 11.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is a bit of a trick!  The problem gives information about bottle caps and wrappers Danny found and already had, but it asks how many *customers* he still has.  There's no information about customers in the problem.  The answer is we don't know how many customers he still has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "If you had 4 bags with equal number of cookies and 36 cookies in total How much money will have at the end of the harvest season?",
+        "answer": 3834.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is a bit of a trick!  It tells you about cookies but asks about money. There's no information given to connect the number of cookies to the amount of money earned during harvest season.  Therefore, it's impossible to answer how much money will be earned.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "In a school there are 706 girls and 222 boys. 418 more girls joined the school. How much money did she have initially?",
+        "answer": 111.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states the number of girls and boys in a school, and then how many more girls joined.  It then asks how much money *she* had initially.  There's no information about money in the problem.  The question is unanswerable.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "For the walls of the house John would use large planks of wood. Each plank needs 2 pieces of nails to be secured and he would use 16 planks. How many more marbles did Ed have than Doug then?",
+        "answer": 9.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem provides information about the number of planks and nails John uses to build a wall.  However, it doesn't give any information about Ed and Doug or how many marbles they have.  Therefore, it's impossible to answer how many more marbles Ed had than Doug.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "At the arcade Dave had won 13 tickets. If he used 8 to buy some toys and 18 more to buy some clothes How many days will it take to harvest 24 sacks of oranges?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "The number of tickets Dave won or spent is irrelevant to the question of how long it takes to harvest oranges.  The question is unanswerable with the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Marco and his dad went strawberry picking. Together their strawberries weighed 35 pounds. Marco's strawberries weighed 13 pounds. How many action figures did he have initially on the shelf?",
+        "answer": 15.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem includes extra information that's not needed to solve a different problem.  The weight of the strawberries is irrelevant. There's no information given about how many action figures Marco had.  Therefore, it's impossible to answer how many action figures he had initially.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "An industrial machine can make 3 shirts a minute. It made 4 shirts yesterday and 8 shirts today. How many sets of tables do they have?",
+        "answer": 3.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is a trick question.  The information about the shirts and the machine's production rate is irrelevant to the number of tables the industrial machine (or its owner/operator) has.  There's no way to determine the number of tables from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "19 red peaches, 11 yellow peaches and 12 green peaches are in the basket. How much money did Edward spend?",
+        "answer": 10.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem doesn't give the price of the peaches.  Therefore, it's impossible to determine how much money Edward spent.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "For Gwen's birthday she received 8 dollars from her mom. Her dad gave her 5 more dollars. If she spent 4 dollars. How many nails does John need for the house wall?",
+        "answer": 20.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The information about Gwen's money is irrelevant to the number of nails John needs.  There's no way to answer how many nails John needs from the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "The ring toss game at the carnival made the same amount of money each day. In total in 30 days they earned 420 dollars. Together with game they earned 22 dollars. How many buses are needed to take the trip?",
+        "answer": 737.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains extra information that is not needed to solve the problem.  The information about the ring toss game's earnings is irrelevant to the number of buses needed.  The question about the number of buses is also completely unrelated. There's no way to answer how many buses are needed based on the provided text.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Dave had 16 apps and 77 files on his phone. After deleting some apps and files he had 5 apps and 23 files left. How many goldfish remained?",
+        "answer": 10.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  The number of goldfish is not related to the number of apps or files Dave deleted.  There's no information given about goldfish.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Paco had 39 sweet cookies and 6 salty cookies. He ate 23 salty cookies and 32 sweet cookies. How many more cakes did baker make than those he sold?",
+        "answer": 184.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem doesn't give us information about how many cakes the baker made or sold.  It only tells us about Paco's cookies.  Therefore, we cannot answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Julia played tag with 18 kids on monday. She played tag with 10 kids on tuesday. How many more girls than boys does the school have?",
+        "answer": 298.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem only gives the number of kids Julia played tag with on Monday and Tuesday.  It doesn't provide any information about the number of boys or girls at the school.  Therefore, we cannot answer how many more girls than boys the school has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Kelly has 46 nintendo games and 132 sony games. How many tomatoes and potatoes does he have left?",
+        "answer": 80.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states how many Nintendo and Sony games Kelly has, but provides no information about tomatoes or potatoes.  Therefore, it's impossible to answer how many tomatoes and potatoes he has left.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Nell collects baseball cards. She gave 301 of her cards to Jeff and now has 154 cards left.. How much did she weigh after the first week of jogging?",
+        "answer": 36.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem contains irrelevant information.  The question about Nell's weight after jogging is unrelated to the number of baseball cards she has.  There's no way to answer the question about her weight.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Rachel had to complete 9 pages of math homework, 2 pages of reading homework and 96 more pages of biology homework. How much money does he earn during harvest season?",
+        "answer": 93899.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about Rachel's homework assignments but doesn't provide any information about her earnings during harvest season.  Therefore, it's impossible to answer how much money Rachel earns during harvest season based on the given information.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "36 campers went rowing in the morning 13 campers went rowing in the afternoon and 49 campers went rowing in the evening. How many more girls than boys does the school have?",
+        "answer": 333.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives the number of campers rowing at different times of day, but it doesn't provide any information about the number of boys or girls.  Therefore, it's impossible to answer how many more girls than boys the school has.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Josh had 4 marbles in his collection. He lost 16 marbles and found 8 new ones. How many more bottles than apple did they have?",
+        "answer": 26.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem doesn't mention apples or bottles.  It only discusses Josh's marbles.\n\nLet's calculate Josh's final number of marbles:\n\n* Started with: 4 marbles\n* Lost: 16 marbles (4 - 16 = -12)\n* Found: 8 marbles (-12 + 8 = -4)\n\nJosh ended up with -4 marbles.  This means he owes someone 4 marbles.  The question about apples and bottles is irrelevant and cannot be answered.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Danny collects bottle caps and wrappers. He found 11 bottle caps and 28 wrappers at the park. Now he has 68 bottle caps and 51 wrappers in his collection. How many slices of pizza does each of us get if distributed equally?",
+        "answer": 45.0,
+        "gemini-1.5-flash (insufficient_question)": "The question about pizza is unrelated to the information about Danny's bottle caps and wrappers.  There's no information provided about how many people are sharing pizza or how many slices of pizza there are.  Therefore, it's impossible to answer the question about pizza slices.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Dave had 59 files and 15 apps on his phone. After deleting some apps and files he had 12 apps and 30 files left. How many more books did he buy than he sold?",
+        "answer": 45.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem doesn't mention books.  It only discusses files and apps.  Therefore, we cannot answer how many more books Dave bought than he sold.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Allan brought 7 balloons and 5 balls while Jake brought 6 balloons and 4 balls to the park. How many more cookies did he eat than those he bought?",
+        "answer": 2.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem gives information about balloons and balls, but asks about cookies.  There's no information about how many cookies Allan or Jake ate or bought.  Therefore, it's impossible to answer the question.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "You have 104 dollars. How many more marbles did Ed have than Doug then?",
+        "answer": 12.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem is missing information.  There's no connection stated between the amount of money and the number of marbles Ed and Doug possess.  Therefore, it's impossible to answer how many more marbles Ed had than Doug.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Kelly has 20 nintendo games and 70 sony games. How many more marbles did he lose than those he found?",
+        "answer": 14.0,
+        "gemini-1.5-flash (insufficient_question)": "The problem states that Kelly has Nintendo and Sony games, but it doesn't mention anything about marbles.  Therefore, we cannot answer the question about how many more marbles he lost than he found.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Julia played tag with 11 kids on monday. She played tag with 12 kids on tuesday. How long is his hair now?",
+        "answer": 17.0,
+        "gemini-1.5-flash (insufficient_question)": "This is a trick question!  There's no way to know how long Julia's hair is based on how many kids she played tag with.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "Tiffany was collecting cans for recycling. On monday she had 8 bags of cans. The next day she found 7 more bags worth of cans. How many crayons had been lost or given away?",
+        "answer": 587.0,
+        "gemini-1.5-flash (insufficient_question)": "The question is a bit of a trick!  The problem tells us about cans, not crayons.  We can't answer how many crayons were lost or given away based on the information provided.\n",
+        "eval_result": 0
+    },
+    {
+        "insufficient_question": "There are 3941 skittles in Steven's skittles collection. Steven also has 4950 erasers. If the erasers are organized into 495 groups How many more cups of sugar than cups of salt does she need to add now?",
+        "answer": 1.0,
+        "gemini-1.5-flash (insufficient_question)": "This problem contains extra, irrelevant information.  The question asks about cups of sugar and salt, but the information provided is about skittles and erasers.  There's no way to answer the question about sugar and salt based on the given data.\n",
+        "eval_result": 0
+    }
+]

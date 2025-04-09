@@ -1,0 +1,252 @@
+[
+    {
+        "insufficient_question": "What is the value of $(\\gamma - \\arctan(\\tan(\\kappa) + 6 - \\omega) \\cdot 10^{x})$?",
+        "complexity": 3,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\min(8 - 4) \\div \\arcsin(\\tan(u_2 + \\epsilon \\div 6) - I_3 \\times (\\lambda^1)) \\cdot 1^{3}$?",
+        "complexity": 4,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $(2) + (\\zeta \\times 5)$?",
+        "complexity": 1,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $9^{n} - (9.61 \\cdot Y \\cap 1) - 8$?",
+        "complexity": 3,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $(\\log(\\Lambda \\times \\exp(X) \\times G) \\times 6) + 6$?",
+        "complexity": 2,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\ln(\\lim_{n \\to 1} \\arccos((1) \\cdot 1) \\times 10 \\in ((\\nu)) + \\nu)$?",
+        "complexity": 5,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $10 \\times ((9 + \\omega))$?",
+        "complexity": 1,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $V$?",
+        "complexity": 2,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $(P - 4) - 2$?",
+        "complexity": 1,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\ln(3.52) \\times \\Omega \\times 8.46$?",
+        "complexity": 2,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $(\\upsilon) + L$?",
+        "complexity": 1,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $(2 \\cdot ((\\upsilon)))$?",
+        "complexity": 1,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\sqrt(\\xi \\otimes 5.65 + \\tanh(V_6)^{3}) \\div \\cosh(\\psi \\cdot t^3 - \\epsilon) \\times 7$?",
+        "complexity": 4,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $((\\cos(3)) \\times \\sin(9)) - l$?",
+        "complexity": 2,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\eta_3$?",
+        "complexity": 3,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $n^3 \\cup F^1 \\subset 8.62$?",
+        "complexity": 5,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\arcsin(2) + Y^2$?",
+        "complexity": 3,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $(3 \\cdot (\\chi \\times h)) + ((\\Psi))$?",
+        "complexity": 1,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\frac{\\partial}{\\partial t} f^1 - 9$?",
+        "complexity": 3,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\eta$?",
+        "complexity": 1,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $(\\psi \\times (\\tau \\times w)) \\cdot g$?",
+        "complexity": 1,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $(\\gamma \\cdot v) \\times A$?",
+        "complexity": 1,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\zeta - (\\sin(u \\cdot 10 + 5)) - S$?",
+        "complexity": 2,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\log((X + \\phi) \\times (y) + \\cos(\\tau)) - ((5) \\cdot O) \\times 9.53$?",
+        "complexity": 2,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\lim_{n \\to \\infty} \\arcsin(I_6 \\times T_6^{2}) \\times 1 - ((z) \\cdot 6.84 \\subset \\kappa_8) \\cdot \\ln(1 \\div 1 \\div 9.02)$?",
+        "complexity": 5,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $q_2$?",
+        "complexity": 4,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\ln(\\cosh(2 \\otimes w \\oplus 7))^{x} \\div (7^{m})$?",
+        "complexity": 5,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\theta_7 + 1.99$?",
+        "complexity": 3,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $F \\cdot I \\times \\ln(8 - \\sigma)$?",
+        "complexity": 2,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\arccos(D_7 - \\max(2.58) \\oplus 1)$?",
+        "complexity": 3,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\sqrt(\\rho \\times 7.01 \\cdot (\\lambda) \\times (\\xi)) \\div U_4 \\supset \\psi^3 \\div 1$?",
+        "complexity": 4,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $((\\gamma)) + \\Xi$?",
+        "complexity": 1,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\omega - \\delta$?",
+        "complexity": 2,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $0.68 \\cap \\Gamma + \\log((8 \\times b)) - \\Sigma$?",
+        "complexity": 4,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $K$?",
+        "complexity": 1,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\frac{K}{((O) + R \\times T)}^{2} \\times ((W) - y^2^{n})$?",
+        "complexity": 3,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\arctan(7 + \\max(3.16) \\times (\\kappa)) \\div 5$?",
+        "complexity": 4,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $((\\Phi - 5)) + 4$?",
+        "complexity": 1,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $(\\alpha) \\cdot (L)$?",
+        "complexity": 1,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\ln(\\ln(\\sin(s + \\Gamma \\times \\nu)) \\cdot \\Phi)$?",
+        "complexity": 2,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\exp(((8) \\times 10 \\cdot 3) \\notin z - Z) \\cdot P \\approx \\beta$?",
+        "complexity": 4,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\int \\epsilon \\approx \\tan(4 \\div \\sigma^3 + m) + \\max(n \\div o_2 \\cdot \\alpha) \\, dx^{3}$?",
+        "complexity": 3,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $(\\Omega - \\Psi)$?",
+        "complexity": 2,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $(10 \\in \\ln(3) - 9) \\div \\lim_{n \\to 0} (D^2)^{x} + \\infty \\div B$?",
+        "complexity": 3,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $(\\chi)$?",
+        "complexity": 2,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $7.06 - 6 - F^3 \\subset \\frac{\\tan(D^3 \\div 4.21 \\in w^3) + w^{2}}{j \\cup (Z^1) \\setminus \\Omega_3}$?",
+        "complexity": 4,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\gamma_3 + \\log(\\ln(5) \\subset \\Gamma)$?",
+        "complexity": 4,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\mu$?",
+        "complexity": 2,
+        "depth": 3
+    },
+    {
+        "insufficient_question": "What is the value of $\\frac{\\partial^2}{\\partial z^2} \\sinh((7) - \\kappa \\approx Y) \\div 7 - 3 \\cdot 8 + I$?",
+        "complexity": 5,
+        "depth": 2
+    },
+    {
+        "insufficient_question": "What is the value of $\\arcsin(\\tanh(L - \\cosh(10)) \\setminus \\tanh(K \\div m) \\cdot \\chi) - Q \\subset \\tan(2 \\subset (8) \\cdot \\Delta) \\times \\cosh((1 \\times 1^{n}))$?",
+        "complexity": 5,
+        "depth": 3
+    }
+]
