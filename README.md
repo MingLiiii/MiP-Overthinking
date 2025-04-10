@@ -1,6 +1,7 @@
 # Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?
 
-[Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?](https://arxiv.org/abs/2504.06514)
+[Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?](https://arxiv.org/abs/2504.06514) <br>
+Chinese Version: [[知乎]](https://zhuanlan.zhihu.com/p/1893618251856053646)
 
 <p align="center" width="50%">
 <a ><img src="images/alpaca.png" alt="overview" style="width: 40%; min-width: 300px; display: block; margin: auto;"></a>
