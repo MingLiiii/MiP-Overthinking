@@ -1,6 +1,6 @@
 # Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?
 
-[Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?](https://github.com/MingLiiii/MiP-Overthinking)
+[Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?](https://arxiv.org/abs/2504.06514)
 
 <p align="center" width="50%">
 <a ><img src="images/alpaca.png" alt="overview" style="width: 40%; min-width: 300px; display: block; margin: auto;"></a>
@@ -113,4 +113,13 @@ python eval.py --model_name <model_name> --data_root <data_root> --version <vers
 
 Please consider citing our paper if you think our paper, codes, or data are useful. Thank you!
 ```
+@misc{fan2025missingpremiseexacerbatesoverthinking,
+      title={Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?}, 
+      author={Chenrui Fan and Ming Li and Lichao Sun and Tianyi Zhou},
+      year={2025},
+      eprint={2504.06514},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2504.06514}, 
+}
 ```
